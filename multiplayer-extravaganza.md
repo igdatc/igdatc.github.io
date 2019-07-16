@@ -4,7 +4,6 @@ permalink: /multiplayer-extravaganza/
 layout: default
 ---
 
-
 Multiplayer Extravaganza is an ongoing series of monthly events where our community gets together to play games and share gaming experiences. The games we play and discuss include a rotating collection of favorites suggested by the community as well as locally made games that local game makers bring to the events.  Come share your passion for games, or bring your own game to get feedback and encouragement, or simply join us to find your place in the gaming world.  There’s always something new to discover! Read about <a href="http://www.igdatc.org/category/events/multiplayer/">past and future Multiplayer Extravaganza events</a> on our blog.
 
 ### Attend&nbsp;Multiplayer Extravaganza
