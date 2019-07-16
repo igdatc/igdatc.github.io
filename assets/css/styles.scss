@@ -1,8 +1,9 @@
 ---
 ---
+$primary: #eb0000;
 
-@import 'bootstrap.min.css';
+@import 'bootstrap/bootstrap';
 
-h1 {
+h1,h2,h3,h4,h5 {
   font-family: 'Arvo', serif;
 }
