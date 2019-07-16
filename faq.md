@@ -3,3 +3,47 @@ title: FAQ
 permalink: /faq/
 layout: default
 ---
+
+<p><strong>Q:</strong> I am interested in this “game development” thing. What should I do?</p>
+<p class='mb-5'><strong>A:</strong>&nbsp;Come to one of our meetings! Everyone at our meetings is very friendly and open to discussion about all aspects of game development. Of course, if you simply can’t wait for the next meeting, there are tons of game development resources available online. You can always just start by googling and make something. (It’s definitely more fun to show up to a meeting with a prototype — or sketches of one — that you’re dying to show to other game developers!)</p>
+
+<p><strong>Q:</strong> Do I have to be a member of the IGDA to attend your events?</p>
+<p class='mb-5'><strong>A:</strong> Not at all! The IGDA is a great organization, but primarily focused on working professionals and students. Our meetings cater quite a bit to hobbyists in addition to being open and friendly to those who are simply “just interested” in game development. All of our events (so far) are open and free to the public.</p>
+
+<p><strong>Q:</strong> When do you usually meet, and what is a meeting like?</p>
+<p><strong>A:</strong> We have a few different types of &nbsp;events, including our regular monthly meetings, as well as special events like game jams and E3 hangouts. Here is a list of our “regular” monthly meetings:</p>
+<ul class='mb-5'>
+<li><em><a href="/monthly-meeting/">The Monthly IGDA-TC meeting</a></em> is usually the 2nd Wednesday of the month. A typical agenda includes two presentations, a shorter “member” presentation, as well as one a bit longer, usually give by a “pro” or seasoned developer. There is pizza before the meeting, as well as a limited number of “Plug My Thing” tickets available that allow you to give a quick (3-5 minute) “plug” for your project or game. (Youtube encouraged!) After the meeting, lots of folks head over to Joe Sensor’s (off 494 &amp; France Avenue) for socialization long into the night.</li>
+<li><em><a href="/mn-vr-and-hci/">MN VR and HCI</a></em> (Virtual Reality and Human Computer Interaction) is held on the 4th Wednesday of the month, devoted to gaming hardware of all kinds.</li>
+<li><em><a href="/multiplayer-extravaganza/">Multiplayer Extravaganza</a></em> – The structure (and regular dates) for this meeting and social event are still in flux, so keep your ears open. Essentially it’s an excuse for us to get together and play each other’s games, as well as play the latest multiplayer games.</li>
+</ul>
+
+<p><strong>Q:</strong> What’s the best way to find out about the next meeting?</p>
+<p><strong>A:</strong> This is a good question! We are trying to be better about making these known in a lot of different ways:</p>
+<ul class='mb-5'>
+<li>Probably the best way is to have signed up for a meeting previously on EventBrite. (You can always see a list of events, past and present, here: <a onclick="javascript:pageTracker._trackPageview('/outgoing/igdatc.eventbrite.com/');" href="http://igdatc.eventbrite.com/">http://igdatc.eventbrite.com/</a>) Once you’ve signed up, you should get emails for all the new meetings and events.</li>
+<li>Follow us on Twitter <a onclick="javascript:pageTracker._trackPageview('/outgoing/twitter.com/igdatc');" href="http://twitter.com/igdatc">@igdatc</a></li>
+<li>Or check the Facebook page:&nbsp;<a onclick="javascript:pageTracker._trackPageview('/outgoing/facebook.com/igdatc');" href="http://facebook.com/igdatc">http://facebook.com/igdatc</a> (We are not great about posting here.)</li>
+</ul>
+
+<p class='mb-5'><strong>Q:</strong> I’m local to the Minnesota and I want to promote my game, can you help?</p>
+<p><strong>A:</strong> Absolutely! Sign up for a plug-my-thing ticket, and show a video or just talk about your release for 3-5 minutes. You can also tweet <a onclick="javascript:pageTracker._trackPageview('/outgoing/twitter.com/igdatc');" href="http://twitter.com/igdatc">@IGDATC</a> and you’re almost certain to get a retweet.</p>
+
+<p><strong>Q:</strong> I’m looking for a job! and / or I’m looking to hire someone!</p>
+<p class='mb-5'><strong>A:</strong> All our events are great for networking. Please show up and make your intentions known. You might also have luck posting in the <a onclick="javascript:pageTracker._trackPageview('/outgoing/mspgamedev.slack.com');" href="https://mspgamedev.slack.com">MSPGameDev slack team</a>. (<a onclick="javascript:pageTracker._trackPageview('/outgoing/mspgamedevslack.herokuapp.com/');" href="http://mspgamedevslack.herokuapp.com/">Join here</a> if you don’t already have an account.)</p>
+
+<p><strong>Q:</strong> I’d like to present something!</p>
+<p class='mb-5'><strong>A:</strong> Awesome!!! Please show up at a meeting and talk to one of the organizers, or send an email to igdatc at igdatc.org.</p>
+
+<p><strong>Q:</strong> What else can I do to get involved?</p>
+<p><strong>A:</strong> We are always looking for people who want to help. What you get out of the chapter is what you put in, so get involved. We can always use help with any of the following:</p>
+<ul class='mb-5'>
+	<li>Blogging</li>
+	<li>Local News and Events</li>
+	<li>Set up and Tear down of events</li>
+	<li>Tell a friend to attend a meeting and/or join the IGDA</li>
+	<li>Day of event check-in</li>
+	<li>Sharing our events and news in your social network</li>
+</ul>
+
+<p>Question not answered? Feel free to email igdatc at igdatc.org about anything else you might want to know!</p>
