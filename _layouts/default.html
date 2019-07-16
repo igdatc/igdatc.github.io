@@ -3,7 +3,11 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>{{ page.title }}</title>
+    {% if page.title %}
+      <title>{{page.title}} | IGDA Twin Cities</title>
+    {% else %}
+      <title>IGDA Twin Cities | The Twin Cities Chapter of the International Game Developers Association</title>
+    {% endif %}
     <link rel="stylesheet" href="/assets/css/styles.css">
     <link href="https://fonts.googleapis.com/css?family=Arvo|Ubuntu&display=swap" rel="stylesheet">
   </head>
