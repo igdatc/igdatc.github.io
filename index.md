@@ -12,8 +12,9 @@ We also have a VR & HCI meeting on the 4th (or sometimes 5th) Wednesday.
 Please find registration for our events at IGDATC.eventbrite.com.
 
 Contributors:
+
 {% for contributor in site.github.contributors %}
-	[{{contributor.login}}]({{contributor.url}})
+	* [{{ contributor.login }}]({{ contributor.url }})
 	<!-- <a href='{{contributor.url}}'>
 		<img src='{{contributor.avatar_url}}' alt='{{contributor.login}}' />
 	</a> -->
