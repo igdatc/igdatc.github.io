@@ -19,3 +19,8 @@ Contributors:
 		<img src='{{contributor.avatar_url}}' alt='{{contributor.login}}' />
 	</a> -->
 {% endfor %}
+
+Files:
+{% for file in site.static_files %}
+	{{file.name}}
+{% endfor %}
