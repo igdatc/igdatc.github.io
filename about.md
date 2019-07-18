@@ -8,8 +8,12 @@ layout: default
 <br><br>
 <a href="http://www.facebook.com/IGDATC"><img src="/assets/img/facebook-32x32.png"></a>
 <a href="http://www.twitter.com/igdatc"><img src="/assets/img/twitter-32x32.png"></a>
-<a href="http://www.igdatc.org/feed/rss/"><img src="/assets/img/rss-32x32.png">
+<!-- a href="http://www.igdatc.org/feed/rss/"><img src="/assets/img/rss-32x32.png" -->
 
+<p>Site contributors:
+<ul>
 {% for contributor in site.github.contributors %}
-	{{ contributor.login }}
+	<li>{{ contributor.login }}</li>
 {% endfor %}
+</ul>
+</p>
