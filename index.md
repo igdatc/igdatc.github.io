@@ -3,7 +3,7 @@ layout: default
 title: Welcome!
 ---
 
-to the International Game Developers Association Twin Cities chapter.
+...to the International Game Developers Association, Twin Cities chapter.
 
 We have two meetings a month, our [MAIN MEETING](/monthly-meeting/) is on the 2nd Wednesday.
 
