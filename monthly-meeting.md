@@ -8,34 +8,32 @@ The IGDATC Monthly Meetings are our “main event” and an excellent place to m
 
 ### Attend Monthly Meetings
 
-We typically meet starting at 6:00pm every month on the second Wednesday at <a onclick="javascript:pageTracker._trackPageview('/outgoing/www.google.com/maps/place/9555+James+Ave+S+%23245/@44.8310696,-93.3005977,17z/');" href="https://www.google.com/maps/place/9555+James+Ave+S+%23245/@44.8310696,-93.3005977,17z/">the Nerdery</a> in the south metro. These events are free and open to the public, but require registration to attend. We always try and post&nbsp;dates and locations of future events on our blog, but you can also check <a onclick="javascript:pageTracker._trackPageview('/outgoing/igdatc.eventbrite.com/');" href="https://igdatc.eventbrite.com/">our Eventbrite</a>&nbsp;for the latest&nbsp;event listings.
+We typically meet starting at 6:00pm every month on the second Wednesday at [the Nerdery](https://www.google.com/maps/place/9555+James+Ave+S+%23245/@44.8310696,-93.3005977,17z/) in the south metro. These events are free and open to the public, but require registration to attend. We always try and post&nbsp;dates and locations of future events on our blog, but you can also check [our Eventbrite](https://igdatc.eventbrite.com/)&nbsp;for the latest&nbsp;event listings.
 
-It is also recommended that you join the IGDATC <a onclick="javascript:pageTracker._trackPageview('/outgoing/groups.google.com/d/forum/igda-tc');" href="https://groups.google.com/d/forum/igda-tc">Google Group</a> or follow us on either <a onclick="javascript:pageTracker._trackPageview('/outgoing/www.twitter.com/igdatc');" href="http://www.twitter.com/igdatc">Twitter</a> or <a onclick="javascript:pageTracker._trackPageview('/outgoing/www.facebook.com/IGDATC');" href="http://www.facebook.com/IGDATC">Facebook</a>.
+It is also recommended that you join the IGDATC [Google Group](https://groups.google.com/d/forum/igda-tc) or follow us on either [Twitter](http://www.twitter.com/igdatc) or [Facebook](http://www.facebook.com/IGDATC).
 
 ### Call for Speakers
 
-Almost every topic relating to the gaming industry is welcome at our event. We are a very casual and friendly crowd. If this is your first time speaking, the 20-30 minute “member project” slot might be perfect for you! Please email us at <a onclick="javascript:pageTracker._trackPageview('/mailto/events@igdatc.org');" href="mailto:events@igdatc.org">events@igdatc.org</a> if you are interested in speaking at the IGDATC Monthly Meeting.
+Almost every topic relating to the gaming industry is welcome at our event. We are a very casual and friendly crowd. If this is your first time speaking, the 20-30 minute “member project” slot might be perfect for you! Please email us at [events@igdatc.org](mailto:events@igdatc.org) if you are interested in speaking at the IGDATC Monthly Meeting.
 
 ### Event Schedule
 
 This is a typical schedule, but it varies:
 
-<ul class='list-unstyled'>
-	<li>6:00 – Socializing and Pizza (Thanks to the Nerdery!)</li>
-	<li>6:30 – Announcements / Pitch Your Thing</li>
-	<li>7:00 – Member Project</li>
-	<li>7:30 – Main Presentation</li>
-	<li>8:30 – Wrap up, head to <a onclick="javascript:pageTracker._trackPageview('/outgoing/www.google.com/maps/place/Joe+Senser');" href="https://www.google.com/maps/place/Joe+Senser's+Sports+Theater/@44.857124,-93.333023,17z/data=!3m1!4b1!4m2!3m1!1s0x87f624736e170833:0x56e363a90024273d">Joe Sensers</a> for socializing</li>
-</ul>
+* 6:00 – Socializing and Pizza (Thanks to the Nerdery!)
+* 6:30 – Announcements / Pitch Your Thing
+* 7:00 – Member Project
+* 7:30 – Main Presentation
+* 8:30 – Wrap up, head to [Joe Sensers](https://goo.gl/maps/XzhY1GRz5cJHx9Aj7) for socializing
 
 ### Sponsor Shout Out
 
-We’d like to extend a huge thank you to <a onclick="javascript:pageTracker._trackPageview('/outgoing/nerdery.com/');" href="http://nerdery.com/">the Nerdery</a> for providing us space and pizza for these events!
+We’d like to extend a huge thank you to [the Nerdery](http://nerdery.com/) for providing us space and pizza for these events!
 
 ### History
 
-IGDA Twin Cities has been hosting meetings for local game developers since 2004! Since 2011, we have been pretty good about posting all our events on the website, but we do also host <a href="http://www.igdatc.org/history/">a page with a list of our events before 2011</a>.
+IGDA Twin Cities has been hosting meetings for local game developers since 2004! Since 2011, we have been pretty good about posting all our events on the website, but we do also host [a page with a list of our events before 2011](/history/).
 
 ### Feedback / Contact Us
 
-Got a question, concern, or idea? Please email <a onclick="javascript:pageTracker._trackPageview('/mailto/events@igdatc.org');" href="mailto:events@igdatc.org">events@igdatc.org</a> or find an organizer at the event.
+Got a question, concern, or idea? Please email [events@igdatc.org](mailto:events@igdatc.org) or find an organizer at the event.
