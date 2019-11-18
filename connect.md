@@ -6,7 +6,7 @@ layout: default
 
 **Twitter**
 
-You can tweet at [@igdatc](http://www.twitter.com/igdatc) and we will see it eventually. We love to retweet and follow local game developers!
+You can tweet at [@igdatc](http://www.twitter.com/igdatc) and we will probably see it the fastest. We love to retweet and follow local game developers!
 
 
 **Facebook**
@@ -16,7 +16,7 @@ We have an [IGDA Twin Cities Facebook page](http://facebook.com/igdatc/) if you 
 
 **MSP GameDev Slack**
 
-There is an active slack channel where IGDA Twin Cities members hang out and chat virtually every day.
+There is an active slack channel where IGDA Twin Cities members hang out and chat virtually every day. If you want to discuss IGDA Twin Cities specifically, please join the #igdatc-meta channel!
 
 [Request an invite to the MSP GameDev Slack here.](https://mspgamedevslack.herokuapp.com/) (Or [go here](https://mspgamedev.slack.com/) if you already have an account.)
 
