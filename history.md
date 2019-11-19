@@ -4,11 +4,28 @@ permalink: /history/
 layout: default
 ---
 
-We try and post [all of our events](http://www.igdatc.org/category/events/) here on on the website. But even before we had a website, we had events. Here is a list of events from the days before we had a website:
+We will try and keep this list of events up to date on on the website.
+
+
+{% assign year = "" %}
+
+{% for post in site.categories.events %}
+{% assign postyear = post.date | date: "%Y" %}
+
+{% if year != postyear %}
+{% assign year = postyear %}
+### {{ year }}
+{% endif %}
+
+  * {{ post.date | date: "%m/%d/%Y" }} - [{{ post.title }}]({{ post.url }})
+{% endfor %}
+
+<br />
+
+Of course, even before we had a website, we had events. Here is a list of events from the days before we had a website:
 
 ### 2011
 
-*   Feb 9th: [Dead Space 2](http://deadspace.ea.com/ "http://deadspace.ea.com/") - Sandra Voelker, Senior Technical Artist [Visceral Games/EA](http://www.visceralgames.com "http://www.visceralgames.com")
 *   Jan 27th: IGDA-TC Winter Social at the Chatterbox Pub in Highland Park
 
 <a id="2010" name="2010"></a>
