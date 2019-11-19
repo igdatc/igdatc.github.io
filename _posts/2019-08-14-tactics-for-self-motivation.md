@@ -1,11 +1,10 @@
 ---
 layout: event
 title:  "Tactics for Self-Motivation"
+image: "/assets/2019/tactics_v.jpeg"
 categories: events main-meeting
 eventbrite: "https://www.eventbrite.com/e/igdatc-august-2019-tactics-for-self-motivation-tickets-68088331031"
 ---
-
-<img src="{{site.url}}/assets/2019/tactics_v.jpeg" alt="Tactics-V"/>
 
 ### Short Presentation
 #### Classroom Tips for Game Developer, Troy Strand

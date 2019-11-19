@@ -6,6 +6,10 @@ layout: default
 
 <br />
 
+{% if page.image %}
+<img src="{{site.url}}{{page.image}}" alt="{{page.title}}" />
+{% endif %}
+
 {{ content }}
 
 <br />
