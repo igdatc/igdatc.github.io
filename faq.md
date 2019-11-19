@@ -26,8 +26,8 @@ layout: default
 <li>Or check the Facebook page:&nbsp;<a onclick="javascript:pageTracker._trackPageview('/outgoing/facebook.com/igdatc');" href="http://facebook.com/igdatc">http://facebook.com/igdatc</a> (We are not great about posting here.)</li>
 </ul>
 
-<p class='mb-5'><strong>Q:</strong> I’m local to the Minnesota and I want to promote my game, can you help?</p>
-<p><strong>A:</strong> Absolutely! Sign up for a plug-my-thing ticket, and show a video or just talk about your release for 3-5 minutes. You can also tweet <a onclick="javascript:pageTracker._trackPageview('/outgoing/twitter.com/igdatc');" href="http://twitter.com/igdatc">@IGDATC</a> and you’re almost certain to get a retweet.</p>
+<p><strong>Q:</strong> I’m local to the Minnesota and I want to promote my game, can you help?</p>
+<p class='mb-5'><strong>A:</strong> Absolutely! Sign up for a plug-my-thing ticket, and show a video or just talk about your release for 3-5 minutes. You can also tweet <a onclick="javascript:pageTracker._trackPageview('/outgoing/twitter.com/igdatc');" href="http://twitter.com/igdatc">@IGDATC</a> and you’re almost certain to get a retweet.</p>
 
 <p><strong>Q:</strong> I’m looking for a job! and / or I’m looking to hire someone!</p>
 <p class='mb-5'><strong>A:</strong> All our events are great for networking. Please show up and make your intentions known. You might also have luck posting in the <a onclick="javascript:pageTracker._trackPageview('/outgoing/mspgamedev.slack.com');" href="https://mspgamedev.slack.com">MSPGameDev slack team</a>. (<a onclick="javascript:pageTracker._trackPageview('/outgoing/mspgamedevslack.herokuapp.com/');" href="http://mspgamedevslack.herokuapp.com/">Join here</a> if you don’t already have an account.)</p>
@@ -46,4 +46,4 @@ layout: default
 	<li>Sharing our events and news in your social network</li>
 </ul>
 
-<p>Question not answered? Feel free to email igdatc at igdatc.org about anything else you might want to know!</p>
+<p>Question not answered? Please feel free to <a href="/connect/">get in touch</a> or talk to an organizer at one of our events!</p>

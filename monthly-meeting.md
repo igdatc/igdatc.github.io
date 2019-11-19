@@ -8,9 +8,7 @@ The IGDATC Monthly Meetings are our “main event” and an excellent place to m
 
 ### Attend Monthly Meetings
 
-We typically meet starting at 6:00pm every month on the second Wednesday at [Nerdery](https://www.google.com/maps/place/9555+James+Ave+S+%23245/@44.8310696,-93.3005977,17z/) in the south metro. These events are free and open to the public, but require registration to attend. We always try and post&nbsp;dates and locations of future events on our blog, but you can also check [our Eventbrite](https://igdatc.eventbrite.com/)&nbsp;for the latest&nbsp;event listings.
-
-It is also recommended that you join the IGDATC [Google Group](https://groups.google.com/d/forum/igda-tc) or follow us on either [Twitter](http://www.twitter.com/igdatc) or [Facebook](http://www.facebook.com/IGDATC).
+We typically meet starting at 6:00pm every month on the second Wednesday at [Nerdery](https://www.google.com/maps/place/9555+James+Ave+S+%23245/@44.8310696,-93.3005977,17z/) in the south metro. These events are free and open to the public, but require registration to attend. Check [our Eventbrite](https://igdatc.eventbrite.com/) for the latest event listings.
 
 ### Call for Speakers
 
@@ -34,8 +32,8 @@ We’d like to extend a huge thank you to [Nerdery](http://nerdery.com/) for pro
 
 IGDA Twin Cities has been hosting meetings for local game developers since 2004!
 
-Beginning around 2011, we began posting our events as blog posts here on the website. Sometime after that we switched to mostly [posting them on Eventbrite](http://igdatc.eventbrite.com). We do also host [a page with a list of our events before 2011](/history/).
+Sometime around the start of 2011, we began using [igdatc.eventbrite.com](http://igdatc.eventbrite.com) for event registration. We do also host [a page with a list of our previous events](/history/).
 
 ### Feedback / Contact Us
 
-Got a question, concern, or idea? Please email [events@igdatc.org](mailto:events@igdatc.org) or find an organizer at the event.
+Got a question, concern, or idea? Please feel free to [get in touch](/connect/) or talk to an organizer at one of our events!

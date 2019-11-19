@@ -9,6 +9,11 @@ layout: default
 You can tweet at [@igdatc](http://www.twitter.com/igdatc) and we will probably see it the fastest. We love to retweet and follow local game developers!
 
 
+**email**
+
+Please feel free to email us at [events@igdatc.org](mailto:events@igdatc.org), especially if you are interested in speaking at the IGDATC Monthly Meeting.
+
+
 **Facebook**
 
 We have an [IGDA Twin Cities Facebook page](http://facebook.com/igdatc/) if you want to <em>like</em> us!
