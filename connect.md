@@ -28,7 +28,7 @@ There is an active slack channel where IGDA Twin Cities members hang out and cha
 
 **IGDA Parent Organization**
 
-If you are already (or want to become) a member of the IGDA, please head over to [igda.org/tc](http://igda.org/tc) to find us there.
+If you are already (or want to become) a member of the IGDA, please head over to [https://igda.org/chapters/minnesota-twin-cities/](https://igda.org/chapters/minnesota-twin-cities/) to find us there.
 
 
 **ICE COLD GAMES**
