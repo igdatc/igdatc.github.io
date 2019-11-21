@@ -36,6 +36,11 @@ If you are already (or want to become) a member of the IGDA, please head over to
 [Ice Cold Games](https://icecold.games/) – A helpful, community member run page hosting details for local events, meetings, get togethers, businesses and leisure activities.
 
 
+**GitHub**
+
+IGDATC has a [GitHub account](https://github.com/igdatc). So far we are just using it to prototype the next version of our website, but eventually maybe more will live there.
+
+
 **Mailing List Archives**
 
 In the past, the IGDA Twin Cities has maintained a mailing list, which eventually we migrated to [a google group](https://groups.google.com/d/forum/igda-tc). You can still view the google group posts, but both have been disabled in favor of the communication methods above.
