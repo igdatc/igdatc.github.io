@@ -83,7 +83,7 @@ layout: default
 
 ### <span class="mw-headline">Non-Development Industry Companies</span>
 
-* [Activision Value](http://www.activisionvalue.com/)
+[//]: looks abandoned as of 12/30/19 * [Activision Value](http://www.activisionvalue.com/)
 * [Digital River](http://www.digitalriver.com/)
 * [Game Informer Magazine](http://www.gameinformer.com/)
 * [Moondance Games](http://www.moondancegames.com/)
