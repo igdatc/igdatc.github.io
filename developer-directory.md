@@ -16,9 +16,9 @@ layout: default
 ### <span class="mw-headline">Video Games (Development)</span>
 
 * [Abstract Puzzle](http://abstractpuzzle.com/)
-* [Battery Powered Games](http://www.batterypoweredgames.com/)
+<!-- appears abandoned: 12/30/19 * [Battery Powered Games](http://www.batterypoweredgames.com/) -->
 * [Big John Games](http://bigjohngames.com)
-* [Black Love Interactive](http://www.blackloveinteractive.com/)
+<!-- appears abandoned: 12/30/19 * [Black Love Interactive](http://www.blackloveinteractive.com/) -->
 * [Canopy Games](http://www.canopygames.com/)
 * [Concrete Software](http://www.concretesoftware.com/)
 * [Dadcore Digital](https://dadcore.itch.io/)
@@ -32,10 +32,10 @@ layout: default
 * [Howling Moon Software](http://howlingmoonsoftware.com/)
 * [Intropy Games](http://www.intropygames.com/)
 * [King Show Games](http://www.ksg.com/)
-* [Last Straw Productions](http://www.last-straw-games.com/)
+<!-- Appears to forward to a flooring store in Tampa  xD : 12/30/19 * * [Last Straw Productions](http://www.last-straw-games.com/) -->
 * [Monster Games](http://www.mgiracing.com/)
-* [MurWare](http://murware.com/)
-* [Naming is Hard](http://namingishard.com/)
+<!-- does not resolve: 12/30/19 * * [MurWare](http://murware.com/) -->
+<!-- does not resolve: 12/30/19 * * [Naming is Hard](http://namingishard.com/) -->
 * [NOMAD Apps](http://nomadapps.com)
 * [Plaid World Studios](http://www.plaidworld.com/)
 * [PuzzleFox Interactive](http://puzzlefox.co)
@@ -43,7 +43,7 @@ layout: default
 * [Sugar Pill Studios](http://www.sugarpillstudios.com/)
 * [Thoughtshelter Games](http://www.thoughtshelter.com)
 * [Try Catch Games](http://trycatchgames.com/)
-* [Wounded Badger Interactive](http://www.woundedbadger.com/)
+<!-- looks abandoned: 12/30/19 * * [Wounded Badger Interactive](  ) -->
 
 
 <a name="Serious_and_Learning_Games"></a>
@@ -69,7 +69,7 @@ layout: default
 * [Fantasy Flight Games](http://www.fantasyflightgames.com/)
 * [Fight in a Box](https://www.fightinabox.com/)
 * [Floodgate Games](http://floodgategames.com/)
-* [Hilari and Ludi](http://www.hilariaandludi.com/)
+<!-- forbidden: 12/30/19 * [Hilari and Ludi](http://www.hilariaandludi.com/) -->
 * [Jax Ltd](http://www.jaxgames.com/)
 * [Leder Games](http://ledergames.com/)
 * [Mindware](http://www.mindware.com/)
@@ -83,13 +83,13 @@ layout: default
 
 ### <span class="mw-headline">Non-Development Industry Companies</span>
 
-[//]: looks abandoned as of 12/30/19 * [Activision Value](http://www.activisionvalue.com/)
+<!-- does not resolve: 12/30/19 * [Activision Value] http://www.activisionvalue.com/) -->
 * [Digital River](http://www.digitalriver.com/)
 * [Game Informer Magazine](http://www.gameinformer.com/)
-* [Moondance Games](http://www.moondancegames.com/)
+<!-- This site is temporarily unavailable: 12/30/19 * [Moondance Games](http://www.moondancegames.com/) -->
 * [NativeX](http://nativex.com/)
-* [Navarre Corporation](http://www.navarre.com/)
-* [ValuSoft](http://www.valusoft.com/)
+<!-- does not resolve: 12/30/19 * [Navarre Corporation](http://www.navarre.com/) -->
+* [Play Hard Games](https://playhardgames.net/)
 
 
 <a id="Related_Local_Groups" name="Related_Local_Groups"></a>
@@ -99,10 +99,10 @@ layout: default
 * [Glitch](http://glitch.mn/)
 * [Midwest Game Developers](https://www.facebook.com/groups/855551914504191/)
 * [Mobile Twin Cities](http://mobiletwincities.com/)
-* [MN.swf](http://www.mnswf.com/)
-* [MN Autodesk 3DS Max Users Group](http://www.mnmug.com/)
-* [MN Maya Users Group](https://www.facebook.com/groups/891712657525832/)
-* [Mobilize.mn](http://www.mobilize.mn/)
+<!-- forbidden: 12/30/19 * [MN.swf](http://www.mnswf.com/) -->
+<!-- forwards to some odd chinese site: 12/30/19 * [MN Autodesk 3DS Max Users Group](http://www.mnmug.com/) -->
+<!-- "content not available": 12/30/19 * [MN Maya Users Group](https://www.facebook.com/groups/891712657525832/) -->
+<!-- under construction: 12/30/19 * [Mobilize.mn](http://www.mobilize.mn/) -->
 * [Video Game Development Club (VGDC)](http://vgdc.umn.edu/)
 
 
