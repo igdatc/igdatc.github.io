@@ -16,8 +16,7 @@ We will try and keep this list of events up to date on on the website.
 {% assign year = postyear %}
 ### {{ year }}
 {% endif %}
-
-  * {{ post.date | date: "%m/%d/%Y" }} - [{{ post.title }}]({{ post.url }})
+*   {{ post.date | date: "%m/%d/%Y" }} - [{{ post.title }}]({{ post.url }})
 {% endfor %}
 
 <br />
