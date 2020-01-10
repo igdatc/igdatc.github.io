@@ -43,6 +43,7 @@ layout: default
 * [Sugar Pill Studios](http://www.sugarpillstudios.com/)
 * [Thoughtshelter Games](http://www.thoughtshelter.com)
 * [Try Catch Games](http://trycatchgames.com/)
+* [Wallride Games](https://www.wallridegames.com/)
 <!-- looks abandoned: 12/30/19 * * [Wounded Badger Interactive](  ) -->
 
 
