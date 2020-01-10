@@ -52,7 +52,7 @@ Of course, even before we had a website, we had events. Here is a list of events
 *   Feb 10th: Digital Publishing on DSiWare and WiiWare - Ken Patterson - CEO, [Big John Games](http://www.bigjohngames.com/ "http://www.bigjohngames.com/")
     *   Post-mortem: [Thorium Wars](http://www.thoriumwars.com/ "http://www.thoriumwars.com/") - Matt Heinzen - Development Lead, [Big John Games](http://www.bigjohngames.com/ "http://www.bigjohngames.com/")
     *   Member Project: Porting [Mouse House](http://www.bigjohngames.com/games/mouse-house/ "http://www.bigjohngames.com/games/mouse-house/") to WiiWare, intro to Wii Dev - Chris Dillman - Owner, [Plaid World Studios](http://www.plaidworld.com/ "http://www.plaidworld.com/")
-*   Jan 26th: IGDA TC Winter Social at [The Chatterbox Pub](http://www.chatterboxpub.net/ "http://www.chatterboxpub.net/")in Highland Park.
+*   Jan 26th: IGDA TC Winter Social at [The Chatterbox Pub](http://www.chatterboxpub.net/ "http://www.chatterboxpub.net/") in Highland Park.
 
 <a id="2009" name="2009"></a>
 
@@ -113,7 +113,6 @@ Of course, even before we had a website, we had events. Here is a list of events
 
 *   December 13th: Wii Demo Spotlighting ExciteTruck - Chad Jasper
 *   October 11th: Organizational Meeting - Gary
-*   August: No August Meeting
 *   June 14th: [The Fun Factor, Machine Learning, and Gameplay Metrics](http://www.aaai.org/Conferences/AIIDE/2006/aiide06speakers.php "http://www.aaai.org/Conferences/AIIDE/2006/aiide06speakers.php") - Ben Geisler
 *   April 12th: [GDC 2006](http://gdconf.com "http://gdconf.com") Wrap & [TikiWiki](http://tikiwiki.org "http://tikiwiki.org") Introduction - GDC2006 Attendees
 *   February 8th: Education and Games Panel
