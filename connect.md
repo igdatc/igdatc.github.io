@@ -8,8 +8,10 @@ layout: default
 
 You can tweet at [@igdatc](http://www.twitter.com/igdatc) and we will probably see it the fastest. We love to retweet and follow local game developers!
 
+<!-- a href="http://www.twitter.com/igdatc"><img src="/assets/img/twitter-32x32.png"></a -->
 
-**email**
+
+**Email**
 
 Please feel free to email us at [events@igdatc.org](mailto:events@igdatc.org), especially if you are interested in speaking at the IGDATC Monthly Meeting.
 
@@ -17,6 +19,8 @@ Please feel free to email us at [events@igdatc.org](mailto:events@igdatc.org), e
 **Facebook**
 
 We have an [IGDA Twin Cities Facebook page](http://facebook.com/igdatc/) if you want to <em>like</em> us!
+
+<!-- a href="http://www.facebook.com/IGDATC"><img src="/assets/img/facebook-32x32.png"></a -->
 
 
 **MSP GameDev Slack**
@@ -28,12 +32,12 @@ There is an active slack channel where IGDA Twin Cities members hang out and cha
 
 **IGDA Parent Organization**
 
-If you are already (or want to become) a member of the IGDA, please head over to [https://igda.org/chapters/minnesota-twin-cities/](https://igda.org/chapters/minnesota-twin-cities/) to find us there.
+If you are already (or want to become) a member of the IGDA, please head over to [https://igda.org/chapters/us-mn-twin-cities/](https://igda.org/chapters/us-mn-twin-cities/) to find us there.
 
 
-**ICE COLD GAMES**
+**Ice Cold Games**
 
-[Ice Cold Games](https://icecold.games/) – A helpful, community member run page hosting details for local events, meetings, get togethers, businesses and leisure activities.
+[Ice Cold Games](https://icecold.games/) is a community run webpage listing details for local Twin Cities events, meetings, get togethers, and related businesses.
 
 
 **GitHub**

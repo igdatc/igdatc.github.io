@@ -117,13 +117,13 @@ layout: default
     </div>
     <div id="collapse-8" class="collapse" aria-labelledby="question-8" data-parent="#faq-accordion">
       <div class='card-body'>
-        <p>We are always looking for people who want to help. What you get out of the chapter is what you put in, so get involved. We can always use help with any of the following:</p>
+        <p>We are always appreciative of people who want to help or get involved. What you get out of the chapter is what you put in, so get involved. We can always use help with any of the following:</p>
         <ul class=''>
-        	<li>Blogging</li>
-        	<li>Local News and Events</li>
-        	<li>Set up and Tear down of events</li>
+        	<!-- li>Blogging</li -->
+        	<li>Local News scouting/reporting related to games</li>
+        	<li>Set up and Tear down at events</li>
         	<li>Tell a friend to attend a meeting and/or join the IGDA</li>
-        	<li>Day of event check-in</li>
+        	<li>Day of event check-in help/greeting</li>
         	<li>Sharing our events and news in your social network</li>
         </ul>
       </div>
