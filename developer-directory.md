@@ -40,6 +40,7 @@ layout: default
 * [Plaid World Studios](http://www.plaidworld.com/)
 * [PuzzleFox Interactive](http://puzzlefox.co)
 * [Songbird Productions](http://www.songbird-productions.com/)
+* [Space Mace Games](https://spacemacegames.com/)
 * [Sugar Pill Studios](http://www.sugarpillstudios.com/)
 * [Thoughtshelter Games](http://www.thoughtshelter.com)
 * [Try Catch Games](http://trycatchgames.com/)
