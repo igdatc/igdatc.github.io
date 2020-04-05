@@ -13,8 +13,6 @@ eventbrite: "https://www.eventbrite.com/e/igdatc-september-2019-finding-your-gre
 
 Peter Yang is a Game Designer and Creative Director who specializes in Personal Communications. His goal is to help developers better voice their games to their communities through playtesting and events.
 
-<br />
-
 #### Short Presentation
 ##### Optimizing Like it's 1999 - Scott Lembcke
 
