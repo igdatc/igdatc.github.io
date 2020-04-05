@@ -9,8 +9,6 @@ Plug-in free (read: without Flash) web browser video game development with HTML5
 
 Zachary Johnson is a Creative Developer from Minneapolis specializing in web applications and home brew video games.  He is currently publishing his own work, extending his network, and accepting consulting gigs on [www.zachstronaut.com](http://www.zachstronaut.com).
 
-<br />
-
 We're in the Nerdery's new theater.  Don't use the main enterance. Enter on the west side, and head straight back.
 
 We're also hosting an all day E3 viewing / social event at the Chatterbox 6/6.
