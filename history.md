@@ -4,7 +4,9 @@ permalink: /history/
 layout: default
 ---
 
-We will try and keep this list of events up to date on on the website.
+Witness our ongoing effort to maintain a record of our activity!
+
+Note that this page may very well not reflect our most recent events.
 
 
 {% assign year = "" %}

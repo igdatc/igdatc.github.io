@@ -5,18 +5,10 @@ title: Welcome!
 
 ...to the International Game Developers Association, Twin Cities chapter.
 
-<br />
+We have two meetings a month: our [main meeting](/monthly-meeting/) is on the 2nd Wednesday, and the [VR & HCI](/mn-vr-and-hci) meeting, usually on the 4th Wednesday.
 
-  **WARNING: this is a WORK-IN-PROGRESS version of the website.**
+Currently, our meetings are held online due to [Covid-19](/covid-19/).
 
-  *Please go to [igdatc.org](http://igdatc.org/) for the current version of the website. Or if you'd like to help out with development of this new version of the website, feel free to chime in here: [https://github.com/igdatc/igdatc.github.io](https://github.com/igdatc/igdatc.github.io)*
-
-<br />
-
-We have two meetings a month, our [MAIN MEETING](/monthly-meeting/) is on the 2nd Wednesday.
-
-We also have a [VR & HCI](/mn-vr-and-hci) meeting, usually on the 4th Wednesday.
-
-Please find registration for our events at [IGDATC.eventbrite.com](http://igdatc.eventbrite.com).
+Please find registration for our events at [igdatc.eventbrite.com](http://igdatc.eventbrite.com).
 
 <img src="/resources/IGDATCWebsiteRedo/img/IGDATCLogoHalf.png">
