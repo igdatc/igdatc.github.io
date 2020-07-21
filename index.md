@@ -11,4 +11,4 @@ Currently, our meetings are held online due to [Covid-19](/covid-19/).
 
 Please find registration for our events at [igdatc.eventbrite.com](http://igdatc.eventbrite.com).
 
-<img src="/resources/IGDATCWebsiteRedo/img/IGDATCLogoHalf.png">
+<img class="img-fluid" src="/resources/IGDATCWebsiteRedo/img/IGDATCLogoHalf.png">
