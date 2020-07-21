@@ -2,7 +2,7 @@
 layout: event
 title:  "Watchmen AR, IAPPA, CES"
 image: "/assets/2020/2020-01-Watchmen_AR.jpeg"
-categories: events main-meeting
+categories: events vr-hci
 eventbrite: "https://www.eventbrite.com/e/mn-vr-and-hci-jan-2020-watchmen-ar-iappa-ces-tickets-89329419699"
 published: true
 ---
