@@ -6,7 +6,7 @@ layout: default
 
 Witness our ongoing effort to maintain a record of our activity!
 
-Note that this page may very well not reflect our most recent events.
+Notes: This page may not yet reflect our most recent events. Also, there is also a pretty big gap here that we are slowly filling in with details from [our eventbrite](https://www.eventbrite.com/o/igda-twin-cities-chapter-751587541).
 
 
 {% assign year = "" %}
