@@ -13,7 +13,7 @@ Please feel free to email us at [events@igdatc.org](mailto:events@igdatc.org), e
 
 There is an active slack channel where IGDA Twin Cities members hang out and chat virtually every day. If you want to discuss IGDA Twin Cities specifically, please join the #igdatc-meta channel!
 
-You can [request an invite to the MSP GameDev Slack](https://mspgamedevslack.herokuapp.com/) if you don't have an account, (or [enter the MSP GameDev Slack](https://mspgamedev.slack.com/)) if you already have one.
+You can [request an invite to the MSP GameDev Slack](https://mspgamedevslack.herokuapp.com/) if you don't have an account, or [enter the MSP GameDev Slack](https://mspgamedev.slack.com/) if you already have one.
 
 
 **Twitch**
