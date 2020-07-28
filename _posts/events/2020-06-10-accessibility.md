@@ -4,7 +4,7 @@ title:  "Ease of Accessibility / Joy of Playtesting"
 image: "/assets/2020/2020-06-accessibility.jpeg"
 categories: events main-meeting
 eventbrite: "https://www.eventbrite.com/e/igdatc-june-2020-ease-of-accessibility-tickets-108815283442#"
-published: true
+youtube: "https://youtu.be/zdaagnGNtbM"
 ---
 
 #### Ease of Accessibility
@@ -30,5 +30,5 @@ The events that occurred right here in the heart of the Twin Cities have given r
 
 All members of our community have been impacted by the killing of George Floyd, but for some among us, the suffering is nothing new. We see and care about you. We will be making space at our meeting for community members who would like to discuss their experiences, and beyond that, we also want to specifically invite the Black voices in our community to take the time to speak at our meeting, on this topic or literally anything else, including (and especially) what you’re working on right now!
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zdaagnGNtbM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
