@@ -1,18 +1,23 @@
 ---
-title: Monthly Meeting
+title: Gamedev Meeting
 permalink: /monthly-meeting/
 layout: default
 ---
 
-The IGDATC Monthly Meetings are our “main event” and an excellent place to meet local game makers and learn new things. We generally have two presentations at each meeting covering game industry topics such as design, programming, marketing, art, audio, and everything in between. In addition to our main speaker, we have a shorter “member project” presentation that is great for first time speakers! Our events also open with announcements and an opportunity for you to pitch your latest project in front of the audience. At the end of the night, we head over to a local bar for more socializing.
+Our monthly gamedev meetings, held on the second Wednesday of every month at 6:00 pm central, are igdatc's "main event" and an excellent way to meet game makers and learn new things. Meetings generally feature two presentations: a main presentation running 60-90 minutes, and a shorter presentation that runs 15-30 minutes (great for first time speakers!). Past presentations have included game postmortems, technology previews, career biographies, live demos, and lectures on topics like game design, game marketing, game art, and game audio.
 
-### Attend Monthly Meetings
+Events begin with announcements and an opportunity for attendees to hop on stage (or on Twitch via Discord voice chat!) and talk about their latest project in front of an audience.
 
-We typically meet starting at 6:00pm every month on the second Wednesday at [Nerdery](https://www.google.com/maps/place/9555+James+Ave+S+%23245/@44.8310696,-93.3005977,17z/) in the south metro. These events are free and open to the public, but require registration to attend. Check [our Eventbrite](https://igdatc.eventbrite.com/) for the latest event listings.
+Afterwards, we gather for socializing and networking. For in-person events, we head over to a local bar and restaurant, Joe Sensor's. For events held online via Twitch, we gather here in Discord to chat and play games.
+
+
+### Open to the public!
+
+Our events are free and open to the public. You do not need to be an IGDA member to attend. Registration is requested via [our Eventbrite](https://igdatc.eventbrite.com/), where you can also see details on upcoming events.
 
 ### Call for Speakers
 
-Almost every topic relating to the gaming industry is welcome at our event. We are a very casual and friendly crowd. If this is your first time speaking, the 20-30 minute “member project” slot might be perfect for you! Please email us at [events@igdatc.org](mailto:events@igdatc.org) if you are interested in speaking at the IGDATC Monthly Meeting.
+*Please [email us](mailto:igdatc@igdatc.org) if you are interested in presenting at one of our meetings!*
 
 ### Event Schedule
 
@@ -26,7 +31,7 @@ This is a typical schedule, but it varies:
 
 ### Sponsor Shout Out
 
-We’d like to extend a huge thank you to [Nerdery](http://nerdery.com/) for providing us space and pizza for these events!
+We’d like to extend a huge thank you to [Nerdery](http://nerdery.com/) for providing us space and pizza for our in-person events for many years!
 
 ### History
 
