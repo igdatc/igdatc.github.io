@@ -13,8 +13,6 @@ Aquanesia is a location-based game and performance set 100 years in the future i
 
 Kimberly Long Loken, AIA, LEED AP is an assistant professor of design at the University of Wisconsin-Stout. She teaches graduate and undergraduate students at the intersection of architecture, interiors, film, and games. Kim’s 15 years of experience in the architecture industry includes many adaptive reuse and historic preservation efforts, a complement the narrative emphasis in her scenic and exhibit design work. With Aquanesia, her creative research explores ecosystems as game systems.
 
-<br />
-
 #### Better Games for 3% of the Cost
 ##### Jajeev Nithiananda and Lane Davis
 

@@ -9,18 +9,16 @@ Aaron Bannin will be talking about the trials, tribulations, and celebrations of
 
 [Recharge Studios](http://www.rechargestudios.com/) - [W3i](http://www.w3i.com/)
 
-<br />
-
 2 Member Projects this month:
 
 #### How Crowd Source Funding is a Game Changer
-Christopher Figueroa | [KinifiGames](http://kinifigames.com/)
+
+Christopher Figueroa \| [KinifiGames](http://kinifigames.com/)
 
 Overview of crowd source funding models.  My experience funding Imagine Me on Kickstarter.  Reccomendations of what to do and what not to do when trying to get funding for your next game.
 
-<br />
-
 #### Racing Games Sound
+
 Damian Kastbauer of [Lost Chocolate Lab](http://www.lostchocolatelab.com/) and David Nichols of [Track Time Audio](http://www.tracktimeaudio.com/)
 
 Damian and David present a short preview of their latest sound study, Racing Games Sound. Listen to recent titles' implementations of key sound aspects to the driving experience, and gain insight into the hows and whys of what you hear.

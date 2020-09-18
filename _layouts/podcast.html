@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<p class='text-muted'> {{ page.date | date: "%m/%d/%Y" }} </p>
+<div class='links my-3'>
+  <a href='{{page.podcast_link}}' class='btn btn-sm btn-outline-primary' target="_blank">Listen on RedCircle</a>
+  <a href='{{page.itunes}}' class='btn btn-sm btn-outline-primary' target="_blank">Listen on iTunes</a>
+</div>
+
+<div class='content mb-5'>
+  {{ content }}
+</div>
+
+<p>We invite your feedback and comments. Thank you for listening.</p>
+
+<p>Back to <a href="/podcast/">Podcast Index</a></p>

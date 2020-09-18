@@ -19,8 +19,6 @@ There will be plenty of time for Q & A and story sharing. Be prepared to discuss
 
 Jacqueline Urick is Co-founder and CEO of SieEnt, a studio that is creating and distributing subscription-based episodic video games for PC, mobile and console designed to give women ages 25-64 a quality entertainment experience that respects their limited free-time. Jacqueline is also a member of the IGDA TC leadership team, a co-host on the IGDA TC monthly podcast, on the board of the She's Geeky annual unconference and Managing Director of Girls in Tech, Minneapolis / St. Paul.
 
-<br />
-
 #### Member Project: Galactic Destroyer
 Featuring:
 * Joshua Rehbein

@@ -15,8 +15,6 @@ Are you a game development professional? Are you passionate about sharing your c
 
 Troy Strand is game composer and educator of over ten years. He is an instructional coach for White Bear Lake Area Schools and has taught band, orchestra, and maker education in addition to coaching teachers on innovative practice and class management. He regularly leads professional development on student-centered learning, maker and STEM education and game development in the public school setting.
 
-<br />
-
 ### Main Presentation
 #### Tactics for Self-Motivation, Paul Metcalf
 * [twitter](https://twitter.com/Zaibach333)
