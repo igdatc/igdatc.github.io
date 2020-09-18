@@ -1,17 +1,10 @@
-<h1>The IGDATC Podcast</h1>
+---
+layout: default
+title: The IGDATC Podcast
+---
 
-<h4>Listen on:</h4>
-<ul>
-  <li>
-    <a href="http://itunes.apple.com/us/podcast/id420860430"
-      target="_blank">iTunes</a>
-  </li>
-  <li>
-    <a href="https://redcircle.com/shows/igda-twin-cities-podcast/"
-      target="_blank">RedCircle</a>
-  </li>
-</ul>
-
+<a href='https://redcircle.com/shows/igda-twin-cities-podcast/' class='btn btn-sm btn-outline-primary' target="_blank">Listen on RedCircle</a>
+<a href='http://itunes.apple.com/us/podcast/id420860430' class='btn btn-sm btn-outline-primary' target="_blank">Listen on iTunes</a>
 
 {% assign year = "" %}
 
