@@ -45,7 +45,3 @@ plugins:
 
 sass:
   sass_dir: /assets/css
-
-collections:
-  pages:
-    output: true
