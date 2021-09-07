@@ -6,7 +6,7 @@ layout: default
 
 #### [Email](mailto://igdatc@igdatc.org)
 
-Please feel free to email us at [igdatc@igdatc.org](mailto:events@igdatc.org), especially if you are interested in speaking at one of our meetings.
+Please feel free to email us at [igdatc@igdatc.org](mailto:igdatc@igdatc.org), especially if you are interested in speaking at one of our meetings.
 
 
 #### [Slack](https://mspgamedev.slack.com)
