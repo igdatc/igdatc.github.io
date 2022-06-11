@@ -21,7 +21,7 @@ From world traveler to Director of Developer Relations at YAHAHA and Leader of I
 
 Patty: [@EvilCandy](https://twitter.com/evilcandy)
 
-Yahaha: [Yahaha.com](https://yahaha.com/) | [@OfficialYahaha](https://twitter.com/OfficialYahaha) | [Discord](https://discord.gg/vBHXfxAhgZ)
+Yahaha: [Yahaha.com](https://yahaha.com/) - [@OfficialYahaha](https://twitter.com/OfficialYahaha) - [Discord](https://discord.gg/vBHXfxAhgZ)
 
 ##### _Watch on Youtube_
 

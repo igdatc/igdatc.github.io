@@ -14,7 +14,7 @@ The Practical Magic of Pixel Art: Pixel art is sometimes seen as nostalgic, a vi
 
 Julia Minamata is an indie game developer, freelance artist, and art director based in Toronto, Canada. She is currently working on [The Crimson Diamond](https://www.thecrimsondiamond.com/) (solo), Space Warlord Organ Trading Simulator, Witch Strandings (with Strange Scaffold), and Recommendation Dog!! for the Playdate (with Sweet Baby Inc.). Julia streams game art and music development (with composer Dan Policar) weekly on Twitch (Tuesdays at 8pm Eastern). She also loves giving talks like these!
 
-Find Julia Minamata on [Twitter](https://twitter.com/JuliaMinamata) | [Twitch](https://www.twitch.tv/a_maplemystery) | [YouTube](https://www.youtube.com/c/JuliaMinamata) | [Patreon](https://www.patreon.com/juliaminamata)
+Find Julia Minamata on [Twitter](https://twitter.com/JuliaMinamata) - [Twitch](https://www.twitch.tv/a_maplemystery) - [YouTube](https://www.youtube.com/c/JuliaMinamata) - [Patreon](https://www.patreon.com/juliaminamata)
 
 Wishlist [The Crimson Diamond on Steam](https://store.steampowered.com/app/1098770/The_Crimson_Diamond/)!
 
@@ -26,7 +26,7 @@ Think of the most iconic locations of your favorite video games. Be it a dungeon
 
 Alexis Johnson is a jack-of-all-trades in art. She got into making games in 2017, when she made a card game with her friend, Zach Storch. Taking the same property they created for the card game, Alexis and Zack decided to try their hands at making a video game, which this presentation discusses. When not making extremely large and complicated assets, Alexis enjoys illustration, isometric drawing, sewing, embroidery, and recently got into linocut printing.
 
-Find Alexis Johnson on [Twitter](https://twitter.com/lexijohnsonart) | [Instagram](https://www.instagram.com/lexijohnsonart/)
+Find Alexis Johnson on [Twitter](https://twitter.com/lexijohnsonart) - [Instagram](https://www.instagram.com/lexijohnsonart/)
 
 ##### _Watch on Youtube_
 
