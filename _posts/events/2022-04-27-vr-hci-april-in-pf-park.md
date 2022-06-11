@@ -10,19 +10,20 @@ image: "/assets/2022/vr-hci-2022-04-27.jpeg"
 We're returning to PuzzleFox Park, after the super fun meeting there in January.  We'll check out the new social features (photo booth!) and exercise the new presentation features with a triple-header of quick presentations!!!
 
 #### Vive Flow Dev and App Store
+
 ##### RJ White, Soaring Roc Studio
+
+_[Watch on Youtube](https://youtu.be/w3KKCklkaoU?t=4060)_
 
 I made a launch title for the HTC Vive Flow - a standalone headset targeting non-gamers.  I'll share my experience with the hardware, the current state of the app store, and photos of my kids wearing the biggest sunglasses ever!
 
 #### Focus 3 / Oculus for Business Alternatives
+
 ##### Marc Jensen, space150
 
+_[Watch on Youtube](https://youtu.be/w3KKCklkaoU?t=5617)_
+
 With Oculus for Business winding down, we evaluated HTC Vive Focus 3 as a replacement for an existing Quest 2 project.  We also looked at 3rd party device management options for Quest, including one crazy option!
-
-#### GDC and vMed22 (Clinical uses of VR) highlights
-##### Zach Wendt
-
-From upcoming consumer hardware to cutting edge medical research and treatments using VR, we'll cover the best!  Fast!  (If you went to GDC please stand up and share your experience.)
 
 ##### _Watch on Youtube_
 
