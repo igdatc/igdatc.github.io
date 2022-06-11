@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Microsoft Mesh / Ignite summary"
-categories: events main-meeting
+categories: events vr-hci
 eventbrite: "https://www.eventbrite.com/e/igdatc-october-2021-the-practical-magic-of-pixel-art-tickets-172257164817"
 youtube: "https://youtu.be/8TIeaY0xpCA"
 image: "/assets/2021/vr-hci-2021-03-24.jpeg"
