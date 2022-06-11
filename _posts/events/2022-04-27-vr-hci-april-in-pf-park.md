@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Vive Flow, Focus 3, GDC, vMed in PuzzleFox Park"
-categories: events main-meeting
+categories: events vr-hci
 eventbrite: "https://www.eventbrite.com/e/mn-vr-and-hci-apr-2022-vive-flow-focus-3-gdc-vmed-in-puzzlefox-park-tickets-311328240147"
 youtube: "https://www.youtube.com/embed/w3KKCklkaoU?start=3210"
 image: "/assets/2022/vr-hci-2022-04-27.jpeg"
