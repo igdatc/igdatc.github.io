@@ -1,6 +1,5 @@
 ---
 ---
-
 @import 'bootstrap/bootstrap';
 @import 'color';
 @import 'fonts';
@@ -136,7 +135,7 @@ li p {
 .igdatc-navbar {
   min-height: 125px;
   background-color: $black;
-  background-image: url("../images/NavbarBG.png");
+  background-image: url(/assets/img/NavbarBG.png);
   background-position: bottom center;
   background-repeat: repeat-x;
   padding: 10px 15px !important;
@@ -256,7 +255,7 @@ li p {
           0 -10px 5px 10px rgba($black, 0.3);
     margin-left: -150%;
     margin-right: -150%;
-    background-image: url(../images/HeroBanner.jpg);
+    background-image: url(/assets/img/HeroBanner.jpg);
     background-position: center;
     background-repeat: repeat-x;
     background-size: auto;
@@ -292,7 +291,7 @@ li p {
     height: 90px;
     margin:20px;
     width: 100%;
-    background-image: url(../images/SectionMarker.svg);
+    background-image: url(/assets/img/SectionMarker.svg);
     background-repeat: no-repeat;
     background-position: center;
     order: 100;

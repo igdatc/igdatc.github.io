@@ -1,7 +1,7 @@
 ---
 title: About IGDATC
 permalink: /about/
-layout: default
+layout: page
 ---
 
 This is website for the International Game Developers Association (<a href="http://igda.org/">IGDA</a>) chapter for the Minneapolis/St Paul (Twin Cities) metro area in Minnesota, USA.  We are an active chapter and usually meet monthly. New visitors are always welcome (with or without IGDA membership).
