@@ -1,7 +1,7 @@
 ---
 title: FAQ
 permalink: /faq/
-layout: page
+layout: default
 ---
 
 <div class='accordion' id='faq-accordion'>
