@@ -1,7 +1,7 @@
 ---
 title: Sitemap
 permalink: /sitemap/
-layout: default
+layout: page
 ---
 
 <!-- TODO: figure out why static files appear in this list.

@@ -1,7 +1,7 @@
 ---
 title: Safe Event Policy
 permalink: /safe-event-policy/
-layout: default
+layout: page
 ---
 
 IGDATC wants you to feel safe and to be safe at our events and operates the following Safe Spaces Policy. The most important thing we want you to know is that if something or someone makes you feel uncomfortable at one of our events, no matter how minor it seems, you can report it to us.

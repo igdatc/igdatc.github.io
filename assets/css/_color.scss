@@ -1,0 +1,81 @@
+$red: #da3f43;
+$dark-red: #9c5b60;
+$light-red: #f95055;
+
+$blue: #0d9fa7;
+$dark-blue: #5e787e;
+$light-blue: #d8ffff;
+
+$yellow: #ffcc00;
+$dark-yellow: #b08e01;
+
+$peach: #f58d7f;
+$pink: #fdbeb5;
+
+$gray: #5e787e;
+$light-gray: #E0F3F3;
+$dark-gray: #5e6c73;
+
+$black: #2a3134;
+$white: #ebffff;
+
+@mixin filter-red(){
+	filter:
+		brightness(0) saturate(100%) // Reset!
+		invert(35%)
+		sepia(81%)
+		saturate(1510%)
+		hue-rotate(331deg)
+		brightness(85%)
+		contrast(102%);
+}
+
+@mixin filter-blue(){
+	filter:
+		brightness(0) saturate(100%) // Reset!
+		invert(44%)
+		sepia(92%)
+		saturate(425%)
+		hue-rotate(134deg)
+		brightness(96%)
+		contrast(93%);
+}
+
+@mixin filter-yellow(){
+	filter:
+		brightness(0) saturate(100%) // Reset!
+		invert(62%)
+		sepia(91%)
+		saturate(683%)
+		hue-rotate(5deg)
+		brightness(109%)
+		contrast(107%);
+}
+
+@mixin filter-light-blue(){
+	filter:
+		brightness(0) saturate(100%) // Reset!
+		invert(98%)
+		sepia(53%)
+		saturate(1319%)
+		hue-rotate(165deg)
+		brightness(108%)
+		contrast(104%);
+}
+
+@mixin filter-dark-gray(){
+	filter:
+		brightness(0) saturate(100%) // Reset!
+		invert(45%)
+		sepia(9%)
+		saturate(640%)
+		hue-rotate(156deg)
+		brightness(87%)
+		contrast(88%);
+}
+
+@mixin filter-gray(){
+	filter:
+		brightness(0) saturate(100%) // Reset!
+		invert(46%) sepia(25%) saturate(312%) hue-rotate(144deg) brightness(92%) contrast(90%);
+}

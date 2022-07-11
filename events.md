@@ -1,7 +1,7 @@
 ---
 title: Events
 permalink: /events/
-layout: default
+layout: page
 ---
 
 {% assign year = "" %}
