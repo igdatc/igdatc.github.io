@@ -1,7 +1,7 @@
 ---
 title: 🎮 Twin Cities Playtest
 permalink: /twin-cities-playtest/
-layout: default
+layout: page
 ---
 
 A new online-only event, every third Wednesday, 6-9pm CT, for live testing of in-development games. Sessions are streamed to Twitch, where anyone can watch, and sign up to play next!
