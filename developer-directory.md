@@ -1,7 +1,7 @@
 ---
 title: Developer Directory
 permalink: /developer-directory/
-layout: page
+layout: default
 ---
 
 

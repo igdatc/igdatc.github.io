@@ -1,7 +1,7 @@
 ---
 title: MN VR and HCI
 permalink: /mn-vr-and-hci/
-layout: page
+layout: default
 ---
 
 <img class="float-right img-fluid" src="/assets/img/vr_and_hci-logo.png" alt="vr_and_hci-logo">

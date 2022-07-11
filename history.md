@@ -1,7 +1,7 @@
 ---
 title: History
 permalink: /history/
-layout: page
+layout: default
 ---
 
 Witness our ongoing effort to maintain a record of our activity!

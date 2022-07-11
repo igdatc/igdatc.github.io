@@ -1,7 +1,7 @@
 ---
 title: Gamedev Meeting
 permalink: /monthly-meeting/
-layout: page
+layout: default
 ---
 
 Our monthly gamedev meetings, held on the second Wednesday of every month at 6:00 pm central, are igdatc's "main event" and an excellent way to meet game makers and learn new things. Meetings generally feature two presentations: a main presentation running 60-90 minutes, and a shorter presentation that runs 15-30 minutes (great for first time speakers!). Past presentations have included game postmortems, technology previews, career biographies, live demos, and lectures on topics like game design, game marketing, game art, and game audio.

@@ -1,7 +1,7 @@
 ---
 title: Connect with Us
 permalink: /connect/
-layout: page
+layout: default
 ---
 
 #### [Email](mailto://igdatc@igdatc.org)
