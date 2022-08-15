@@ -3,7 +3,7 @@ layout: event
 title:  "Games, Inclusion, and Empathy"
 categories: events main-meeting
 eventbrite: "https://www.eventbrite.com/e/383010042347/"
-youtube: "https://www.youtube.com/embed/hgei6iaJlbo"
+youtube: "https://youtu.be/hgei6iaJlbo"
 image: "/assets/2022/book-cover-1.png"
 ---
 
@@ -11,7 +11,7 @@ image: "/assets/2022/book-cover-1.png"
 
 ##### Karen "Kat" Schrier
 
-_[Watch on Youtube](https://www.youtube.com/embed/hgei6iaJlbo?start=2705)_
+_[Watch on Youtube](https://youtu.be/hgei6iaJlbo?start=2705)_
 
 Ethics and civics have always mattered, but perhaps they matter now more than ever before. Recently, with the rise of online teaching and movements like #PlayApartTogether, games have become increasingly acknowledged as platforms for civic deliberation and value sharing. We the Gamers explores these possibilities by examining how we connect, communicate, analyze, and discover when we play games. Combining research-based perspectives with current examples, this volume shows how games can be used in ethics, civics, and social studies education to inspire learning, critical thinking, and civic change. It illustrates various educational frameworks through a range of games including board and card games, online games, virtual reality games, and digital games like Minecraft, Executive Command, Keep Talking and Nobody Explodes, Fortnite, When Rivers Were Trails, Politicraft, Quandary, and Animal Crossing: New Horizons. Featuring helpful tips and case studies, We the Gamers shows teachers the strengths and limitations of games in helping students connect with civics and ethics and imagines how we might repair and remake our world through gaming, together.
 
