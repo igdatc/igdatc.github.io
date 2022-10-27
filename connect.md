@@ -9,17 +9,15 @@ layout: page
 Please feel free to email us at [igdatc@igdatc.org](mailto:igdatc@igdatc.org), especially if you are interested in speaking at one of our meetings.
 
 
-#### [Slack](https://mspgamedev.slack.com)
+#### [Slack](/slack)
 
-There is an active [MSP GameDev Slack](https://mspgamedev.slack.com/) "team" where IGDA Twin Cities members hang out and chat virtually every day. If you want to discuss IGDA Twin Cities specifically, please join the #igdatc-meta channel!
+There is an active [MSP GameDev Slack](/slack) "team" where IGDA Twin Cities members hang out and chat virtually every day. If you want to discuss IGDA Twin Cities specifically, please join the #igdatc-meta channel!
 
 You can [join the Slack here](https://mspgamedevslack.herokuapp.com/) if you don't already have an account.
 
+#### [Youtube](https://www.youtube.com/igdatc)
 
-#### [Twitch](https://twitch.tv/igdatc)
-
-When our events are online, you can watch them in realtime on [twitch.tv/igdatc](https://twitch.tv/igdatc). They are then archived on [the igdatc youtube channel](https://www.youtube.com/channel/UC24qSwLgzJU3D1dXNg8ZX-Q).
-
+Our live events are broadcast on [Youtube.com/igdatc](https://www.youtube.com/igdatc).
 
 #### [Discord](https://discord.gg/Q4uqaZe)
 
@@ -56,5 +54,3 @@ We have an [IGDA Twin Cities Facebook page](https://facebook.com/igdatc/) if you
 #### [Mailing List](https://groups.google.com/d/forum/igda-tc) (Archived)
 
 In the past, the IGDA Twin Cities has maintained a mailing list, which eventually we migrated to [a google group](https://groups.google.com/d/forum/igda-tc). You can still view the google group posts, but both have been disabled in favor of the communication methods above.
-
-
