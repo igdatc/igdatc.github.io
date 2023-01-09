@@ -21,7 +21,6 @@ h1,h2,h3,h4,h5 {
   font-family: 'Museo Rounded', serif;
   font-weight: bold;
   line-height: 1.25em;
-  margin-bottom: 0.75em;
 }
 
 h1,h3,h4,h5 {
@@ -30,18 +29,6 @@ h1,h3,h4,h5 {
 h2 {
   color: $peach;
 }
-
-h1 + p,
-h2 + p,
-h3 + p,
-h4 + p,
-h5 + p {
-  margin-bottom:50px;
-}
-
-// p + h1,p + h2,p + h3,p + h4,p + h5 {
-//   margin-top: $spacer * 1.5;
-// }
 
 figure {
   float: left;
