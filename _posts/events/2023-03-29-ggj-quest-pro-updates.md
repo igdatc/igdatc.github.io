@@ -1,7 +1,7 @@
 ---
 layout: event
 title: GGJ and Quest Pro Updates
-categories: events main-meeting
+categories: events vr-hci
 eventbrite: https://www.eventbrite.com/e/558232738147/
 youtube: https://www.youtube.com/live/0LVpiI3PPKw?feature=share
 image: "/assets/2023/ggj-quest-pro-updates.jpeg"
