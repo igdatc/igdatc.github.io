@@ -25,42 +25,45 @@ If you feel you are in imminent danger, please seek assistance from venue securi
 
 We take seriously our duty to ensure the safety and wellbeing of all community members regardless of IGDA membership status.
 
-##### You may report a violation to the full IGDATC board at igdatwincities@gmail.com.
+##### You may report a violation to the full IGDATC board at [igdatwincities@gmail.com](mailto:igdatwincities@gmail.com).
 
 If you feel, for any reason, uncomfortable addressing the entire board, you can report a violation to any number of the following individuals:
 
-IGDATC Chair - Beth Korth: beth.j.korth@gmail.com
-IGDATC Vice-Chair - Zach Wendt: zach.wendt@gmail.com
-IGDATC Treasurer - Peter Yang: yangx997@gmail.com
-IGDATC Board Member - Eli Berg-Maas: rngwrldngnr@gmail.com
-IGDATC Board Member - Mark LaCroix: mark@noblerobot.com
-IGDATC Board Member - David Mann: davidmann10k@gmail.com
+* Chair - Beth Korth: [beth.j.korth@gmail.com](mailto:beth.j.korth@gmail.com)
+* Vice-Chair - Zach Wendt: [zach.wendt@gmail.com](mailto:zach.wendt@gmail.com)
+* Treasurer - Peter Yang: [yangx997@gmail.com](mailto:yangx997@gmail.com)
+* Board Member - Eli Berg-Maas: [rngwrldngnr@gmail.com](mailto:rngwrldngnr@gmail.com)
+* Board Member - Mark LaCroix: [mark@noblerobot.com](mailto:mark@noblerobot.com)
+* Board Member - David Mann: [davidmann10k@gmail.com](mailto:davidmann10k@gmail.com)
 
 
 ## IGDATC COVID-19 Policy
 
-(Updated September 2022)
+(Updated April 2023)
 
 For in-person and hybrid meetings, masking and vaccination policy and enforcement will be determined by the board member(s) or volunteer(s) running the meeting, and will be communicated to attendees both here and in individual event listings.
 
 **Gamedev Meeting**
 
-* Virtual-only on [YouTube](https://www.youtube.com/user/igdatc).
+* Virtual on [YouTube](https://www.youtube.com/user/igdatc)
+* In-person at [Nerdery](https://www.nerdery.com/)
+* Policy: Vaccination required, masks encouraged but not required.
 
 **Twin Cities Playtest**
 
-* Virtual-only on [YouTube](https://www.youtube.com/user/igdatc).
+* Virtual on [YouTube](https://www.youtube.com/user/igdatc)
+* In-person at [Noble Robot](https://noblerobot.com/office)
+* Policy: Vaccination required, masks required. Extra masks available on-site.
 
 **MN VR + HCI**
 
-* Virtual on [YouTube](https://www.youtube.com/user/igdatc).
-* In-person at [REM5](https://www.rem5vr.com/).
+* Virtual on [YouTube](https://www.youtube.com/user/igdatc)
+* In-person at [REM5](https://www.rem5vr.com/)
+* Policy: Vaccination and masks not required.
 
-Mask and vaccination policy: Vaccinations and/or Masks encouraged.  Please do not attend in person if you feel sick or have been exposed to COVID in the previous 5 days.
+Please do not attend in person if you feel sick or have been exposed to COVID in the previous 5 days!
 
-We are currently seeking venues to move our Gamedev and Playtest events to a hybrid format. We will continue holding virtual portions for all of our core events at 6:30pm every 2nd, 3rd, and 4th Wednesday on our (YouTube channel)[https://www.youtube.com/user/igdatc], with chat and socializing taking place on the (IGDATC Discord server)[https://discord.igdatc.org].
-
-Please bear with us as we transition our core events to a hybrid format. We will continue to monitor the situation, and give updates as frequently as possible. If you have any questions or concerns you want to bring to the board, please do not hesitate to email us at igdatwincities@gmail.com.
+We will continue to monitor the situation, and give updates as frequently as possible. If you have any questions or concerns you want to bring to the board, please do not hesitate to [email us](mailto:igdatwincities@gmail.com).
 
 ##### Resources
 
