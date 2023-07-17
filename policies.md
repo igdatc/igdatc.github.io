@@ -3,7 +3,7 @@ layout: page
 title: Policies
 ---
 
-## Code of Conduct
+<h2 id='code-of-conduct'>Code of Conduct</h2>
 
 All IGDATC events – online and in-person – are safe spaces where you can express yourself without fear of judgment or harassment. All participants and visitors are expected to treat other participants, visitors, staff, and the general public with respect. We expect all participants to be mindful of their speech and behaviors both in person and online.
 
@@ -37,7 +37,7 @@ If you feel, for any reason, uncomfortable addressing the entire board, you can 
 * Board Member - David Mann: [davidmann10k@gmail.com](mailto:davidmann10k@gmail.com)
 
 
-## IGDATC COVID-19 Policy
+<h2 id='covid-19-policy'>IGDATC COVID-19 Policy</h2>
 
 (Updated April 2023)
 
