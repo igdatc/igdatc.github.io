@@ -1,3 +1,9 @@
+<!--
+
+REDIRECTED TO INDEX
+
+ -->
+ 
 ---
 title: Connect with Us
 permalink: /connect/

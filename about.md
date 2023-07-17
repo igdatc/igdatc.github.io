@@ -1,4 +1,10 @@
----
+<!--
+
+REDIRECTED TO INDEX
+
+ -->
+
+ ---
 title: About IGDATC
 permalink: /about/
 layout: page

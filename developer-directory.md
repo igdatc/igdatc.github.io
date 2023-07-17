@@ -1,3 +1,9 @@
+<!--
+
+REDIRECTED TO INDEX
+
+ -->
+
 ---
 title: Developer Directory
 permalink: /developer-directory/

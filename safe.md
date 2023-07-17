@@ -1,3 +1,9 @@
+<!--
+
+REDIRECTED TO INDEX
+
+ -->
+
 ---
 title: Safe Event Policy
 permalink: /safe-event-policy/

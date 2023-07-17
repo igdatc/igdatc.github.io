@@ -1,3 +1,8 @@
+<!--
+
+REDIRECTED TO INDEX
+
+ -->
 ---
 title: FAQ
 permalink: /faq/

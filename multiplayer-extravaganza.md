@@ -1,3 +1,9 @@
+<!--
+
+REDIRECTED TO INDEX
+
+ -->
+
 ---
 title: Multiplayer Extravaganza
 permalink: /multiplayer-extravaganza/

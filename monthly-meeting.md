@@ -1,4 +1,10 @@
----
+<!--
+
+REDIRECTED TO INDEX
+
+ -->
+
+ ---
 title: Gamedev Meeting
 permalink: /monthly-meeting/
 layout: page
