@@ -2,6 +2,7 @@
 title: FAQ
 permalink: /faq/
 layout: page
+redirect_to: /
 ---
 
 <div class='accordion' id='faq-accordion'>

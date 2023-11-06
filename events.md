@@ -16,8 +16,3 @@ layout: page
 
   * {{ post.date | date: "%m/%d" }} - [{{ post.title }}]({{ post.url }})
 {% endfor %}
-
-
-
-
-
