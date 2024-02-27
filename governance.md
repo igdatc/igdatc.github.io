@@ -7,7 +7,7 @@ To review the process by which IGDATC board members are elected, please see our 
 
 <h2>2024 Board Member Elections</h2>
 
-[2024 Nominee Statements](https://docs.google.com/forms/d/1jfrRJ0AvJq7XrxbCQekgDVcYzQcWmIs1Bt7iVd2-ZMg/viewanalytics)<br/>
+[2024 Nominee Statements](https://docs.google.com/spreadsheets/d/1Xs8euovyCVod2Un6OoMSIW54FkZBfOyVQ8SBM9DqCsg/edit?usp=sharing)<br/>
 [2024 Election Ballot](https://forms.gle/ga6N5V8Ym52ebTuo6)<br/>
 <br/>
 [2024 Nomination Form](https://forms.gle/JjdnVaye8SMsuZsL7)
