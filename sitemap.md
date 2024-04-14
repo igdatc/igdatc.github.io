@@ -8,7 +8,7 @@ layout: page
 MDG. -->
 
 {% for p in site.pages %}
-* [{{ p.title }}]({{ p.url | absolute_url }})
+  {% unless p.sitemap_exclude %}
+    * [{{ p.title }}]({{ p.url | absolute_url }})
+  {% endunless %}
 {% endfor %}
-
-
