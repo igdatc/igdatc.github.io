@@ -8,7 +8,7 @@ layout: page
 MDG. -->
 
 {% for p in site.pages %}
+  {% unless p.redirect_to %}
 * [{{ p.title }}]({{ p.url | absolute_url }})
+  {% endunless %}
 {% endfor %}
-
-

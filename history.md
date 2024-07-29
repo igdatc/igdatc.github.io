@@ -6,11 +6,11 @@ layout: page
 
 Witness our ongoing effort to maintain a record of our activity!
 
-## The IGDATC Podcast
+<h2 id='podcast'>The IGDATC Podcast</h2>
 
 [The IGDATC Podcast]({% link podcast.md %}) was recorded in the years 2011-2013.
 
-## Events
+<h2 id='events'>Events</h2>
 
 Notes: This page may not yet reflect our most recent events. Also, there is also a pretty big gap here that we are slowly filling in with details from [our eventbrite](https://www.eventbrite.com/o/igda-twin-cities-chapter-751587541).
 
@@ -21,7 +21,7 @@ Notes: This page may not yet reflect our most recent events. Also, there is also
 
 {% if year != postyear %}
 {% assign year = postyear %}
-### {{ year }}
+<h3 id='{{ year }}'>{{ year }}</h3>
 {% endif %}
 *   {{ post.date | date: "%m/%d/%Y" }} - [{{ post.title }}]({{ post.url }})
 {% endfor %}
