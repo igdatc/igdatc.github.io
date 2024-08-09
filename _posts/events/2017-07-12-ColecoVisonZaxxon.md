@@ -6,9 +6,6 @@ categories: events main-meeting
 eventbrite: "https://www.eventbrite.com/e/igdatc-july-2017-colecovision-zaxxon-cartridge-development-tickets-35789206480?aff=ebdsoporgprofile"
 ---
 
-#### Story Time With Zachary Johnson
-
-Pull up a beanbag and roast some fish-shaped cheese crackers on the fire of the stage lights... it is time for Story Time with stories! Zach Johnson has returned from adventures abroad and domestic bringing tales of games like you've never heard nor played before. For approximately 30 minutes, there will be pictures and ramblings about A Maze. / Berlin, JS Conf EU, Signal Conf, Play Date Game Show, and the Electronic Entertainment Expo. Oh, also E3, too.
 
 #### A Brief History of the ColecoVision Zaxxon Cartridge Development in 1982
 ##### David Megarry
@@ -20,3 +17,9 @@ David started playing Avalon Hill's Blitzkrieg in about 1967 and eventually fell
 He is now retired and is exploring his passions of independent scholarship (physics, math & history) as well as game design.
 
 David has two grown children, Martha and Henry, lives in Minneapolis with his wife, Rose, and two chickens, St. Joan of Arc and Charlotte Corday.
+
+
+#### Story Time With Zachary Johnson
+
+Pull up a beanbag and roast some fish-shaped cheese crackers on the fire of the stage lights... it is time for Story Time with stories! Zach Johnson has returned from adventures abroad and domestic bringing tales of games like you've never heard nor played before. For approximately 30 minutes, there will be pictures and ramblings about A Maze. / Berlin, JS Conf EU, Signal Conf, Play Date Game Show, and the Electronic Entertainment Expo. Oh, also E3, too.
+

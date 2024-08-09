@@ -6,7 +6,8 @@ categories: events main-meeting
 eventbrite: "https://www.eventbrite.com/e/mn-vr-and-hci-nov-2017-lux-sonos-vr-tickets-40189851929?aff=ebdsoporgprofile"
 ---
 
-#### [Lux Sonos] (http://www.pixelfarm.com/work/lux-sonos/) - Pixel Farm
+
+#### [Lux Sonos](http://www.pixelfarm.com/work/lux-sonos/) - Pixel Farm
 
 Pixel Farm created Lux Sonos VR for the AIGA conference in Oct. It was a great opportunity to put new design, interaction and abstract themes front and center. The VR world(s) and visuals are based on a recursive fractal. The plants and animals are procedurally driven, and an interactive music soundtrack creates unique performances based on user interactions. Most notably, the audience is given a cinematic view of the VR world, and they also physically interact with it...
 
