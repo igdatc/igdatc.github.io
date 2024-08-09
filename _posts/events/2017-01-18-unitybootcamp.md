@@ -1,8 +1,8 @@
 ---
 layout: event
 title:  "Unity AR/VR Bootcamp"
-image: "/assets/2018/2017-01-18.jpg"
-categories: events main-meeting
+image: "/assets/2017/2017-01-18.jpg"
+categories: events vr-hci
 eventbrite: "https://www.eventbrite.com/e/mn-vr-and-hci-jan-2017-unity-arvr-bootcamp-tickets-31076408374?aff=ebdsoporgprofile"
 ---
 

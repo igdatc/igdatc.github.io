@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Game Development in Fly Over Land"
-image: "/assets/2018/2017-01-11.jpg"
+image: "/assets/2017/2017-01-11.jpg"
 categories: events main-meeting
 eventbrite: "https://www.eventbrite.com/e/igdatc-jan-2017-25-years-of-game-development-in-fly-over-land-tickets-30858948947?aff=ebdsoporgprofile"
 ---
@@ -10,11 +10,11 @@ eventbrite: "https://www.eventbrite.com/e/igdatc-jan-2017-25-years-of-game-devel
 #### 25 Years of Game Development in Fly Over Land
 ##### Ken Paterson
 
-Ken Patterson, President of [Big John Games]{http://www.bigjohngames.com/) will be discussing his involvement in game development. Starting as a hobby in 1981 making games for the Apple II then making the big move to full time game development in 1991. Taking on console development in 2006.
+Ken Patterson, President of [Big John Games](http://www.bigjohngames.com/) will be discussing his involvement in game development. Starting as a hobby in 1981 making games for the Apple II then making the big move to full time game development in 1991. Taking on console development in 2006.
 
 Ken will be sharing experiences in the early years of game development 1980's, building a development studio in the 1990's, struggles of the early 2000's, focusing on consoles (Nintendo, XBOX) in 2006. Self publishing on consoles starting in 2008 and continuing self publishing.
 
-Ken and his studio have created properties for Disney, Activision, Mattel, Marvel, Viacom, GT Interactive, Scholastic, and many more companies. Games created by [Big John Games]{http://www.bigjohngames.com/) are sold in North America, Europe and Japan. [Big John Games]{http://www.bigjohngames.com/) has forged a lasting partnership with Arc System Works of Japan, allowing BJG to sell it's game Japan.
+Ken and his studio have created properties for Disney, Activision, Mattel, Marvel, Viacom, GT Interactive, Scholastic, and many more companies. Games created by [Big John Games](http://www.bigjohngames.com/) are sold in North America, Europe and Japan. [Big John Games](http://www.bigjohngames.com/) has forged a lasting partnership with Arc System Works of Japan, allowing BJG to sell it's game Japan.
 
 Come ready for a fun history lesson in how a little studio in Fly Over land, designed and built games for the big boys of the video game industry and is now competing head to head with them.
 
