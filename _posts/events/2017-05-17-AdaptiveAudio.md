@@ -1,7 +1,7 @@
 ---
 layout: event
-title:  "Adaptive Audio"
-image: "/assets/2018/2017-05-17.jpg"
+title:  "Joint IGDATC and MN VR&HCI May 2017 - Adaptive Audio"
+image: "/assets/2017/2017-05-27.jpg"
 categories: events main-meeting
 eventbrite: "https://www.eventbrite.com/e/joint-igdatc-and-mn-vrhci-may-2017-adaptive-audio-tickets-34260705693?aff=ebdsoporgprofile"
 ---

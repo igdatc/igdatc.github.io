@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "It's A Lttle Weird, But We'll Deal"
-image: "/assets/2018/2017-06-14.jpg"
+image: "/assets/2017/2017-06-17.jpg"
 categories: events main-meeting
 eventbrite: "https://www.eventbrite.com/e/igdatc-june-2017-its-a-little-weird-but-well-deal-tickets-35176211997?aff=ebdsoporgprofile"
 ---

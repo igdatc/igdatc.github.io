@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "ColecoVision Zaxxon Cartridge Development"
-image: "/assets/2018/2017-07-12.jpg"
+image: "/assets/2017/2017-07-12.jpg"
 categories: events main-meeting
 eventbrite: "https://www.eventbrite.com/e/igdatc-july-2017-colecovision-zaxxon-cartridge-development-tickets-35789206480?aff=ebdsoporgprofile"
 ---

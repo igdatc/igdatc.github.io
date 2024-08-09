@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Game Dev Cheat Codes: A Gathering of Tips and Tricks"
-image: "/assets/2018/2017-11-08.jpg"
+image: "/assets/2017/2017-11-08.jpg"
 categories: events main-meeting
 eventbrite: "https://www.eventbrite.com/e/igdatc-nov-2017-game-dev-cheat-codes-a-gathering-of-tips-and-tricks-tickets-39253829260?aff=ebdsoporgprofile"
 ---

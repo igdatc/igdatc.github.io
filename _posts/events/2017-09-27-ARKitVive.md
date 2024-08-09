@@ -1,8 +1,8 @@
 ---
 layout: event
 title:  "ARKit, Vive Body Tracking"
-image: "/assets/2018/2017-09-27.jpg"
-categories: events main-meeting
+image: "/assets/2017/2017-09-27.jpg"
+categories: events vr-hci
 eventbrite: "https://www.eventbrite.com/e/mn-vr-and-hci-sept-2017-arkit-vive-body-tracking-tickets-37951916203?aff=ebdsoporgprofile"
 ---
 
