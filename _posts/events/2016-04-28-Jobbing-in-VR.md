@@ -1,6 +1,6 @@
 ---
 layout: event
-title:  "MN VR and HCI Apr 2016: "Jobbing in VR" - Designing Room-scale VR"
+title:  "MN VR and HCI Apr 2016: Jobbing in VR - Designing Room-scale VR"
 image: "/assets/2016/2016-04-28.jpg"
 categories: events vr-hci
 eventbrite: "https://www.eventbrite.com/e/mn-vr-and-hci-apr-2016-jobbing-in-vr-designing-room-scale-vr-tickets-24633054128?aff=ebdsoporgprofile"
