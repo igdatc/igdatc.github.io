@@ -4,7 +4,7 @@ permalink: /history/
 layout: page
 ---
 
-Witness our ongoing effort to maintain a record of our activity!
+This page reflects an ongoing effort to maintain a record of our activity!
 
 <h2 id='podcast'>The IGDATC Podcast</h2>
 
@@ -12,7 +12,7 @@ Witness our ongoing effort to maintain a record of our activity!
 
 <h2 id='events'>Events</h2>
 
-Notes: This page may not yet reflect our most recent events. Also, there is also a pretty big gap here that we are slowly filling in with details from [our eventbrite](https://www.eventbrite.com/o/igda-twin-cities-chapter-751587541).
+Notes: This page may not yet reflect our most recent events, which can usually be found on [our eventbrite](https://www.eventbrite.com/o/igda-twin-cities-chapter-751587541).
 
 {% assign year = "" %}
 
