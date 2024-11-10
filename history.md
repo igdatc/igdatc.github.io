@@ -4,15 +4,17 @@ permalink: /history/
 layout: page
 ---
 
-This page reflects an ongoing effort to maintain a record of our activity!
+- [Gamedev Meeting / MN VR + HCI Meeting Details, 2004-current](#events)
+- [Podcast, 2011-2013](#podcast)
+- [Mailing list, 2013-2017](#mailing-list)
 
-<h2 id='podcast'>The IGDATC Podcast</h2>
+<h2 id='events'>Gamedev Meeting / VR + HCI Meeting Details</h2>
 
-[The IGDATC Podcast]({% link podcast.md %}) was recorded in the years 2011-2013.
+Our most recent *Gamedev Meetings* and *MN VR + HCI Meetings* are detailed on [our Eventbrite page](https://www.eventbrite.com/o/igda-twin-cities-chapter-751587541). That information is later archived here.
 
-<h2 id='events'>Events</h2>
+**NOTE:** This page may not yet reflect our most recent events.
 
-Notes: This page may not yet reflect our most recent events, which can usually be found on [our eventbrite](https://www.eventbrite.com/o/igda-twin-cities-chapter-751587541).
+[2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2021) | [2020](#2020) | [2019](#2019) | [2018](#2018) | [2017](#2017) | [2016](#2016) | [2015](#2015) | [2014](#2014) | [2013](#2013) | [2012](#2012) | [2011](#2011) | [2010](#2010) | [2009](#2009) | [2008](#2008) | [2007](#2007) | [2006](#2006) | [2005](#2005) | [2004](#2004)
 
 {% assign year = "" %}
 
@@ -26,17 +28,11 @@ Notes: This page may not yet reflect our most recent events, which can usually b
 *   {{ post.date | date: "%m/%d/%Y" }} - [{{ post.title }}]({{ post.url }})
 {% endfor %}
 
-<br />
-
-Of course, even before we had a website, we had events. Here is a list of events from the days before we had a website:
-
-### 2011
+<h3 id="2011">2011</h3>
 
 *   Jan 27th: IGDA-TC Winter Social at the Chatterbox Pub in Highland Park
 
-<a id="2010" name="2010"></a>
-
-### 2010
+<h3 id="2010">2010</h3>
 
 *   Dec 2nd: Minnesota Electronic Theater 2010
 *   Nov 23rd: Physics Sound Unleashed - Damian Kastbauer / [Lost Chocolate Lab](http://www.waste.org/lostchocolatelab/ "http://www.waste.org/lostchocolatelab/")
@@ -61,9 +57,7 @@ Of course, even before we had a website, we had events. Here is a list of events
     *   Member Project: Porting [Mouse House](http://www.bigjohngames.com/games/mouse-house/ "http://www.bigjohngames.com/games/mouse-house/") to WiiWare, intro to Wii Dev - Chris Dillman - Owner, [Plaid World Studios](http://www.plaidworld.com/ "http://www.plaidworld.com/")
 *   Jan 26th: IGDA TC Winter Social at [The Chatterbox Pub](http://www.chatterboxpub.net/ "http://www.chatterboxpub.net/") in Highland Park.
 
-<a id="2009" name="2009"></a>
-
-### 2009
+<h3 id="2009">2009</h3>
 
 *   Dec 3rd: Minnesota Electronic Theater 2009
 *   Nov 4th - Games for Android/gPhone by Robert Green, President [Battery Powered Games, LLC](http://www.batterypoweredgames.com/ "http://www.batterypoweredgames.com/")
@@ -87,9 +81,7 @@ Of course, even before we had a website, we had events. Here is a list of events
 *   Feb 5th - Making and Selling iPhone Games - Andy Korth, Scott Lembcke of [Howling Moon Software](http://howlingmoonsoftware.com/index.shtml "http://howlingmoonsoftware.com/index.shtml") and Chris Dillman of [Plaid World Studios](http://www.plaidworld.com/ "http://www.plaidworld.com/")
     *   Member Project: Crysis mod and into to Sandbox2 editor - [Jesse Comb](http://jalexcomb.wordpress.com/ "http://jalexcomb.wordpress.com/")
 
-<a id="2008" name="2008"></a>
-
-### 2008
+<h3 id="2008">2008</h3>
 
 *   Dec 11th - Holiday Party at [PUNY](http://punyentertainment.com/ "http://punyentertainment.com/")
 *   Nov 6th: Agile Development for Games - Jesse Crafts-Finch - [Johnson Simulation Center](http://dev.johnsonsimcenter.com/index.php "http://dev.johnsonsimcenter.com/index.php")
@@ -107,16 +99,12 @@ Of course, even before we had a website, we had events. Here is a list of events
 *   February 7th: Camera-Controlled Motion Games - Yuichiro Tanabe, Cory Petosky, and Pete Border - [Puny Entertainment](http://punyentertainment.com/ "http://punyentertainment.com/")
 *   January 3rd: Video and Traditional Board Games - Martin Grider [Go-Tetris](http://chesstris.com/ "http://chesstris.com/") and [Darrell Hardy](http://darrellhardy.com/ "http://darrellhardy.com/")
 
-<a id="2007" name="2007"></a>
-
-### 2007
+<h3 id="2007">2007</h3>
 
 *   December 6th: Holiday Social at [PUNY](http://punyentertainment.com/ "http://punyentertainment.com/")
 *   November 1st: Microsoft XNA Introduction and Hands-On - Zach Wendt
 
-<a id="2006" name="2006"></a>
-
-### 2006
+<h3 id="2006">2006</h3>
 
 *   December 13th: Wii Demo Spotlighting ExciteTruck - Chad Jasper
 *   October 11th: Organizational Meeting - Gary
@@ -124,9 +112,7 @@ Of course, even before we had a website, we had events. Here is a list of events
 *   April 12th: [GDC 2006](http://gdconf.com "http://gdconf.com") Wrap & [TikiWiki](http://tikiwiki.org "http://tikiwiki.org") Introduction - GDC2006 Attendees
 *   February 8th: Education and Games Panel
 
-<a id="2005" name="2005"></a>
-
-### 2005
+<h3 id="2005">2005</h3>
 
 *   December 14th: Digital Game Distribution - Wes Pederson
 *   October 12th: Tablet Development, and MN Game Jam 1 Games - Gary Dahl
@@ -136,9 +122,7 @@ Of course, even before we had a website, we had events. Here is a list of events
 *   March 9th: Teaching Journalism with [Never Winter Nights](http://nwn.bioware.com/ "http://nwn.bioware.com/") - Matt Taylor
 *   February 9th: Dynamic Simulation at Pixar Animation Studios - David Baraff
 
-<a id="2004" name="2004"></a>
-
-### 2004
+<h3 id="2004">2004</h3>
 
 *   November 11th: [Game Maker](http://gamemaker.nl "http://gamemaker.nl") - Gary Dahl
 *   October 12th: [The Video Game Revolution](http://www.pbs.org/kcts/videogamerevolution/ "http://www.pbs.org/kcts/videogamerevolution/") - PBS
@@ -146,3 +130,10 @@ Of course, even before we had a website, we had events. Here is a list of events
 *   August 10th: [Blender](http://blender.org "http://blender.org") - Kent Mein, Joshua Seaver
 *   July 13th: Pen&Paper vs Computer Game Design - Christopher Weiss
 
+<h2 id='mailing-list'>Archived Mailing List</h2>>
+
+IGDATC once maintained a mailing list, which was eventually migrated to [a google group](https://groups.google.com/d/forum/igda-tc). In 2017, the Google Group was archived.
+
+<h2 id='podcast'>The IGDATC Podcast</h2>
+
+[The IGDATC Podcast]({% link podcast.md %}) was recorded in the years 2011-2013.
