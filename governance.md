@@ -10,7 +10,7 @@ To review the process by which IGDATC board members are elected, please see our 
 <br/>
 **[2025 Voting Ballot](https://forms.gle/8yfjCsY1WSKeFB3u5)** (Open until March 12th, 2025)<br/>
 <br/>
-2025 Nominee Statements (PENDING)<br/>
+[2025 Nominee Statements](https://docs.google.com/spreadsheets/d/19Yg8rnVLGvndm62Ho5T2LM6N0VOqHg06CeFfpwt80Hs/edit?gid=1042870508#gid=1042870508)<br/>
 <br/>
 [2025 Nomination Form](https://forms.gle/VDznXMpSq4CVT8GZ9) (Closed)
 
