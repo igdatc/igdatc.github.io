@@ -30,12 +30,8 @@ We take seriously our duty to ensure the safety and wellbeing of all community m
 If you feel, for any reason, uncomfortable addressing the entire board, you can report a violation to any number of the following individuals:
 
 * Chair - Beth Korth: [beth.j.korth@gmail.com](mailto:beth.j.korth@gmail.com)
-* Vice-Chair - Zach Wendt: [zach.wendt@gmail.com](mailto:zach.wendt@gmail.com)
-* Treasurer - Peter Yang: [yangx997@gmail.com](mailto:yangx997@gmail.com)
-* Board Member - Eli Berg-Maas: [rngwrldngnr@gmail.com](mailto:rngwrldngnr@gmail.com)
 * Board Member - Mark LaCroix: [mark@noblerobot.com](mailto:mark@noblerobot.com)
-* Board Member - David Mann: [davidmann10k@gmail.com](mailto:davidmann10k@gmail.com)
-
+* Board Member - Erik Onarheim: [erik@caliburn.games](mailto:erik@caliburn.games)
 
 <h2 id='covid-19-policy'>IGDATC COVID-19 Policy</h2>
 

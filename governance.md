@@ -10,8 +10,8 @@ title: Governance
   <li>Deanna Greyoak (2024-, Treasurer)</li>
   <li>Sam Baeseman (2024-, Secretary)</li>
   <li>Trent Greyoak (2023-)</li>
-  <li>David Mann (2019-)</li>
-  <li>Zach Wendt (2019-, Vice-chair 2019-2024)</li>
+  <li>Joanna May (2025-)</li>
+  <li>Erik Onarheim (2025-)</li>
 </ul>
 
 To review the process by which IGDATC board members are elected, please see our [IGDATC Board Membership: Terms and Elections](https://docs.google.com/document/d/1oFttRIit4bF55lbySJKh0uOc6W2oemJyteh3lKCw9g4/edit?usp=sharing) document.
@@ -33,6 +33,8 @@ To review the process by which IGDATC board members are elected, please see our 
 
 <h2>Board Members Emeriti, 2019-</h2>
 <ul>
+  <li>David Mann (2019-2025)</li>
+  <li>Zach Wendt (2019-2025, Vice-chair 2019-2024)</li>
   <li>El Berg-Maas (2019-2024, Secretary 2021-2024)</li>
   <li>Peter Yang (2019-2023, Treasurer 2021-2023)</li>
   <li>Dev Jana (2019-2021, Treasurer 2019-2021)</li>
