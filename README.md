@@ -19,3 +19,10 @@ located at [https://igdatc.github.io/](https://igdatc.github.io/)
 
 We use [jekyll-redirect-from](https://github.com/jekyll/jekyll-redirect-from) for redirections as necessary.
 `redirect_to` is the preferred method for redirection. Adding this to the header creates a 301 redirection and the pages do not get generated. This is preferred over deleting old pages because it perserves the route.
+
+## Local Development
+
+* Install Ruby `ruby 2.7.6p219 (2022-04-12 revision c9c2245c0a) [x64-mingw32]`
+* Install Bundle `Bundler version 2.1.4`
+
+`bundle exec jekyll serve`
