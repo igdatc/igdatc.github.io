@@ -9,7 +9,7 @@ title: Governance
   <li>Mark LaCroix (2019-, Vice-chair 2024-)</li>
   <li>Deanna Greyoak (2024-, Treasurer)</li>
   <li>Sam Baeseman (2024-, Secretary)</li>
-  <li>Trent Greyoak (2023-)</li>
+  <li>Trenton Greyoak (2023-)</li>
   <li>Joanna May (2025-)</li>
   <li>Erik Onarheim (2025-)</li>
 </ul>
