@@ -3,6 +3,10 @@ layout: page
 title: Policies
 ---
 
+<h2 id='sick-and-safety'>Sick Policy</h2>
+
+If you're sick STAY HOME! We'll see you next time, we have virtual options for participation.
+
 <h2 id='code-of-conduct'>Code of Conduct</h2>
 
 All IGDATC events – online and in-person – are safe spaces where you can express yourself without fear of judgment or harassment. All participants and visitors are expected to treat other participants, visitors, staff, and the general public with respect. We expect all participants to be mindful of their speech and behaviors both in person and online.
@@ -33,36 +37,37 @@ If you feel, for any reason, uncomfortable addressing the entire board, you can 
 * Board Member - Mark LaCroix: [mark@noblerobot.com](mailto:mark@noblerobot.com)
 * Board Member - Erik Onarheim: [erik@caliburn.games](mailto:erik@caliburn.games)
 
-<h2 id='covid-19-policy'>IGDATC COVID-19 Policy</h2>
 
-(Updated April 2023)
-
-For in-person and hybrid meetings, masking and vaccination policy and enforcement will be determined by the board member(s) or volunteer(s) running the meeting, and will be communicated to attendees both here and in individual event listings.
-
-**Gamedev Meeting**
-
-* Virtual on [YouTube](https://www.youtube.com/user/igdatc)
-* In-person at [Nerdery](https://www.nerdery.com/)
-* Policy: Vaccination required, masks encouraged but not required.
-
-**Twin Cities Playtest**
-
-* Virtual on [YouTube](https://www.youtube.com/user/igdatc)
-* In-person at [Noble Robot](https://noblerobot.com/office)
-* Policy: Vaccination required, masks required. Extra masks available on-site.
-
-**MN VR + HCI**
-
-* Virtual on [YouTube](https://www.youtube.com/user/igdatc)
-* In-person at [REM5](https://www.rem5vr.com/)
-* Policy: Vaccination and masks not required.
-
-Please do not attend in person if you feel sick or have been exposed to COVID in the previous 5 days!
-
-We will continue to monitor the situation, and give updates as frequently as possible. If you have any questions or concerns you want to bring to the board, please do not hesitate to [email us](mailto:igdatwincities@gmail.com).
-
-##### Resources
-
-* [MDH COVID-19 Home Page](https://www.health.state.mn.us/diseases/coronavirus/index.html) - Up to date information from the Minnesota Department of Health.
-* [CDC COVID-19 Home Page](https://www.cdc.gov/coronavirus/2019-ncov/index.html) - Up to date information from the Center for Disease Control & Prevention.
-* [IGDA COVID-19 Resource page](https://igda.org/resources/covid-19-resources/) - Info from the parent organization for impacted devs.
+<!-- <h2 id='covid-19-policy'>IGDATC COVID-19 Policy</h2> -->
+<!---->
+<!-- (Updated April 2023) -->
+<!---->
+<!-- For in-person and hybrid meetings, masking and vaccination policy and enforcement will be determined by the board member(s) or volunteer(s) running the meeting, and will be communicated to attendees both here and in individual event listings. -->
+<!---->
+<!-- **Gamedev Meeting** -->
+<!---->
+<!-- * Virtual on [YouTube](https://www.youtube.com/user/igdatc) -->
+<!-- * In-person at [Nerdery](https://www.nerdery.com/) -->
+<!-- * Policy: Vaccination required, masks encouraged but not required. -->
+<!---->
+<!-- **Twin Cities Playtest** -->
+<!---->
+<!-- * Virtual on [YouTube](https://www.youtube.com/user/igdatc) -->
+<!-- * In-person at [Noble Robot](https://noblerobot.com/office) -->
+<!-- * Policy: Vaccination required, masks required. Extra masks available on-site. -->
+<!---->
+<!-- **MN VR + HCI** -->
+<!---->
+<!-- * Virtual on [YouTube](https://www.youtube.com/user/igdatc) -->
+<!-- * In-person at [REM5](https://www.rem5vr.com/) -->
+<!-- * Policy: Vaccination and masks not required. -->
+<!---->
+<!-- Please do not attend in person if you feel sick or have been exposed to COVID in the previous 5 days! -->
+<!---->
+<!-- We will continue to monitor the situation, and give updates as frequently as possible. If you have any questions or concerns you want to bring to the board, please do not hesitate to [email us](mailto:igdatwincities@gmail.com). -->
+<!---->
+<!-- ##### Resources -->
+<!---->
+<!-- * [MDH COVID-19 Home Page](https://www.health.state.mn.us/diseases/coronavirus/index.html) - Up to date information from the Minnesota Department of Health. -->
+<!-- * [CDC COVID-19 Home Page](https://www.cdc.gov/coronavirus/2019-ncov/index.html) - Up to date information from the Center for Disease Control & Prevention. -->
+<!-- * [IGDA COVID-19 Resource page](https://igda.org/resources/covid-19-resources/) - Info from the parent organization for impacted devs. -->
