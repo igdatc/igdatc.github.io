@@ -8,9 +8,9 @@ title: Governance
 2026 Nominee Statements (soon)<br/>
 **[2026 Nomination Form](https://forms.gle/6ujMKXejG1iAKPHn7)** (Open until February 12th, 2026)<br/>
 
-<br/><br/>
+<br/>
 
-The programming committee organizes events, coordinates volunteers, and manages the community’s online spaces. Every year, the community holds elections to fill roughly half of the committee seats.
+The programming committee organizes events, coordinates volunteers, and manages the community’s online spaces. Every year, the community holds elections to fill roughly half of the committee seats.<br/>
 
 <h2>Current Members</h2>
 <ul>
@@ -23,9 +23,9 @@ The programming committee organizes events, coordinates volunteers, and manages 
   <li>Erik Onarheim (2025-)</li>
 </ul>
 
-To review the full process by which members are elected, please see the [Nice Games Alliance Programming Committee / IGDATC Board: Terms and Elections](https://docs.google.com/document/d/1oFttRIit4bF55lbySJKh0uOc6W2oemJyteh3lKCw9g4) document.
+To review the full process by which members are elected, please see the [Nice Games Alliance Programming Committee / IGDATC Board: Terms and Elections](https://docs.google.com/document/d/1oFttRIit4bF55lbySJKh0uOc6W2oemJyteh3lKCw9g4) document.<br/>
 
-<br/><br/><br/>
+<br/>
 
 <h2>History</h2>
 
@@ -54,7 +54,6 @@ In 2025, to better formalize its governance structure and independant operations
   <li>Peter Yang (2019-2023, Treasurer 2021-2023)</li>
 </ul>
 
-<br/>
 <h3>2004-2019</h3>
 <p>From 2004 until the IGDATC Board was established in 2019, the chapter/community was led by volunteer organizers including:</p>
 <ul>
