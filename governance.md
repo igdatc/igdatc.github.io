@@ -6,7 +6,7 @@ title: Governance
 <h2>2026 Elections</h2>
 * **[2026 Nomination Form](https://forms.gle/6ujMKXejG1iAKPHn7)** (Open until February 12th, 2026)
 
-<br/>
+<hr/>
 
 The programming committee organizes events, coordinates volunteers, and manages the community’s online spaces. Every year, the community holds elections to fill roughly half of the committee seats.<br/>
 
@@ -23,7 +23,7 @@ The programming committee organizes events, coordinates volunteers, and manages 
 
 To review the full process by which members are elected, please see the [Nice Games Alliance Programming Committee / IGDATC Board: Terms and Elections](https://docs.google.com/document/d/1oFttRIit4bF55lbySJKh0uOc6W2oemJyteh3lKCw9g4) document.<br/>
 
-<br/>
+<hr/>
 
 <h2>History</h2>
 
