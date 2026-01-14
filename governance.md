@@ -4,11 +4,11 @@ title: Governance
 ---
 
 <h2>2026 Elections</h2>
-2026 Voting Ballot (soon)
-2026 Nominee Statements (soon)
-**[2026 Nomination Form](https://forms.gle/6ujMKXejG1iAKPHn7)** (Open until February 12th, 2026)
+2026 Voting Ballot (soon)<br/>
+2026 Nominee Statements (soon)<br/>
+**[2026 Nomination Form](https://forms.gle/6ujMKXejG1iAKPHn7)** (Open until February 12th, 2026)<br/>
 
-<br/><br/><br/>
+<br/><br/>
 
 The programming committee organizes events, coordinates volunteers, and manages the community’s online spaces. Every year, the community holds elections to fill roughly half of the committee seats.
 
@@ -30,21 +30,18 @@ To review the full process by which members are elected, please see the [Nice Ga
 <h2>History</h2>
 
 <h3>2025 adoption as Programming Committee</h3>
-In 2025, to better formalize its governance structure and independant operations, the IGDATC board voted to become the Programing Committee of [Nice Games Alliance](https://nicegames.org), an independant 501(c)(3) nonprofit organization. It continues to function as the chapter board for the purposes of its relationship to IGDA.
+In 2025, to better formalize its governance structure and independant operations, the IGDATC board voted to become the Programing Committee of [Nice Games Alliance](https://nicegames.org), an independant 501(c)(3) nonprofit organization. It continues to function as the chapter board for the purposes of its relationship to IGDA.<br/>
 
-<br/>
 <h3>2025 Elections</h3>
 [2025 Voting Ballot](https://forms.gle/8yfjCsY1WSKeFB3u5) (Closed March 13th, 2025)<br/>
 [2025 Nominee Statements](https://docs.google.com/spreadsheets/d/19Yg8rnVLGvndm62Ho5T2LM6N0VOqHg06CeFfpwt80Hs/edit?gid=1042870508#gid=1042870508)<br/>
-[2025 Nomination Form](https://forms.gle/VDznXMpSq4CVT8GZ9) (Closed February 12th, 2025)
+[2025 Nomination Form](https://forms.gle/VDznXMpSq4CVT8GZ9) (Closed February 12th, 2025)<br/>
 
-<br/>
 <h3>2024 Elections</h3>
 [2024 Voting Ballot](https://forms.gle/ga6N5V8Ym52ebTuo6) (Closed March 13th, 2024)<br/>
 [2024 Nominee Statements](https://docs.google.com/spreadsheets/d/1Xs8euovyCVod2Un6OoMSIW54FkZBfOyVQ8SBM9DqCsg/edit?usp=sharing)<br/>
-[2024 Nomination Form](https://forms.gle/JjdnVaye8SMsuZsL7) (Closed February 14th, 2024)
+[2024 Nomination Form](https://forms.gle/JjdnVaye8SMsuZsL7) (Closed February 14th, 2024)<br/>
 
-<br/>
 <h3>Members Emeriti, 2019-</h3>
 <ul>
   <li>El Berg-Maas (2019-2024, Secretary 2021-2024)</li>
