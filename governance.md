@@ -4,7 +4,8 @@ title: Governance
 ---
 
 <h2>2026 Elections</h2>
-* **[2026 Nomination Form](https://forms.gle/6ujMKXejG1iAKPHn7)** (Open until March 12th, 2026)
+* **[2026 Voting Ballot](https://forms.gle/HctEaxBT7sdd26RJ9)** (Open until April 8th, 2026)
+* [2026 Nomination Form](https://forms.gle/6ujMKXejG1iAKPHn7) (Closed March 12th, 2026)
 
 <hr/>
 
